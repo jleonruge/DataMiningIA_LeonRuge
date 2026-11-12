@@ -2,7 +2,6 @@
 
 Proyecto final de Minería de Datos con IA — *De la pregunta al insight*
 Universidad Ean ·
-por Jose leonardo cuello
 
 ---
 
@@ -177,4 +176,4 @@ Contenido: flujo de trabajo, cómo asistió la IA en cada etapa y hallazgos prin
 
 ---
 
-**Autor:** [Tu nombre] · [Tu correo] · [Tu perfil de GitHub]
+**Autor:** [Jose Leonardo Cuello] · [rugelis3@hotmail.com] · [https://github.com/jleonruge/DataMiningIA_LeonRuge]
