@@ -1,4 +1,4 @@
-# DataMiningIA_[TuNombre]
+# DataMiningIA_[jleonruge]
 
 Proyecto final de Minería de Datos con IA — *De la pregunta al insight*
 Universidad Ean ·
