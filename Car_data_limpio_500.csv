@@ -1,0 +1,501 @@
+id_venta,fecha,genero,ingreso_anual,concesionario,marca,modelo,motor,transmision,color,precio,carroceria,region,ingreso_dudoso,anio,mes,trimestre,banda_precio
+C_CND_000080,2022-01-05,Male,930000,Clay Johnson Auto Sales,Acura,TL,Double Overhead Camshaft,Auto,Black,28000,Hatchback,Austin,0,2022,1,1,Medio
+C_CND_000112,2022-01-09,Male,700000,Scrivener Performance Engineering,Buick,Park Avenue,Double Overhead Camshaft,Auto,Pale White,62001,Hatchback,Greenville,0,2022,1,1,Alto
+C_CND_000167,2022-01-13,Female,13500,Clay Johnson Auto Sales,Volkswagen,Beetle,Double Overhead Camshaft,Auto,Pale White,45000,SUV,Austin,1,2022,1,1,Alto
+C_CND_000172,2022-01-13,Female,13500,Star Enterprises Inc,Chevrolet,Camaro,Double Overhead Camshaft,Auto,Pale White,24000,Sedan,Pasco,1,2022,1,1,Medio
+C_CND_000261,2022-01-27,Female,700000,Star Enterprises Inc,Mercury,Grand Marquis,Double Overhead Camshaft,Auto,Black,9000,SUV,Pasco,0,2022,1,1,Bajo
+C_CND_000350,2022-02-06,Male,500000,Diehl Motor CO Inc,Saturn,LS,Overhead Camshaft,Manual,Pale White,14000,Sedan,Middletown,0,2022,2,1,Bajo
+C_CND_000433,2022-02-09,Male,1435000,Iceberg Rentals,Cadillac,Eldorado,Overhead Camshaft,Manual,Pale White,31500,Passenger,Janesville,0,2022,2,1,Alto
+C_CND_000462,2022-02-14,Male,1750000,Diehl Motor CO Inc,Nissan,Frontier,Overhead Camshaft,Manual,Black,53000,Hatchback,Middletown,0,2022,2,1,Alto
+C_CND_000525,2022-02-15,Female,965000,Ryder Truck Rental and Leasing,Volvo,V70,Double Overhead Camshaft,Auto,Black,39000,Passenger,Aurora,0,2022,2,1,Alto
+C_CND_000557,2022-02-20,Male,540000,Enterprise Rent A Car,Mercedes-B,SL-Class,Overhead Camshaft,Manual,Pale White,17000,SUV,Aurora,0,2022,2,1,Bajo
+C_CND_000578,2022-02-22,Male,765000,Capitol KIA,Saturn,SC,Overhead Camshaft,Manual,Pale White,61000,Hatchback,Greenville,0,2022,2,1,Alto
+C_CND_000747,2022-03-05,Male,13500,Race Car Help,Volkswagen,Jetta,Double Overhead Camshaft,Auto,Black,22000,Passenger,Austin,1,2022,3,1,Medio
+C_CND_000735,2022-03-05,Male,1760000,Enterprise Rent A Car,Nissan,Frontier,Double Overhead Camshaft,Auto,Pale White,18000,Hatchback,Aurora,0,2022,3,1,Bajo
+C_CND_000779,2022-03-07,Male,1322500,Pitre Buick-Pontiac-Gmc of Scottsdale,Volkswagen,Jetta,Double Overhead Camshaft,Auto,Pale White,16251,Passenger,Pasco,0,2022,3,1,Bajo
+C_CND_000834,2022-03-08,Male,350000,Clay Johnson Auto Sales,Ford,Expedition,Overhead Camshaft,Manual,Black,18000,SUV,Pasco,0,2022,3,1,Bajo
+C_CND_000801,2022-03-08,Male,1900000,Scrivener Performance Engineering,Volkswagen,GTI,Overhead Camshaft,Manual,Black,25000,SUV,Greenville,0,2022,3,1,Medio
+C_CND_000918,2022-03-14,Female,1420000,Saab-Belle Dodge,Volkswagen,Passat,Overhead Camshaft,Manual,Pale White,12000,Hatchback,Middletown,0,2022,3,1,Bajo
+C_CND_000966,2022-03-16,Female,13500,Tri-State Mack Inc,Ford,Taurus,Overhead Camshaft,Manual,Black,43000,SUV,Janesville,1,2022,3,1,Alto
+C_CND_000934,2022-03-16,Male,13500,Nebo Chevrolet,Hyundai,Sonata,Overhead Camshaft,Manual,Black,15000,SUV,Middletown,1,2022,3,1,Bajo
+C_CND_000979,2022-03-17,Male,1401500,Scrivener Performance Engineering,Mitsubishi,Diamante,Overhead Camshaft,Manual,Black,22150,Hatchback,Greenville,0,2022,3,1,Medio
+C_CND_000996,2022-03-19,Female,1480000,Progressive Shippers Cooperative Association No,Infiniti,I30,Double Overhead Camshaft,Auto,Red,15000,SUV,Janesville,0,2022,3,1,Bajo
+C_CND_000997,2022-03-19,Male,2000000,Rabun Used Car Sales,Dodge,Ram Pickup,Overhead Camshaft,Manual,Pale White,16001,SUV,Scottsdale,0,2022,3,1,Bajo
+C_CND_001074,2022-03-20,Male,1165000,Tri-State Mack Inc,Saturn,SW,Double Overhead Camshaft,Auto,Red,25500,Passenger,Scottsdale,0,2022,3,1,Medio
+C_CND_001155,2022-03-22,Male,750000,Suburban Ford,Lexus,LX470,Double Overhead Camshaft,Auto,Black,22000,SUV,Janesville,0,2022,3,1,Medio
+C_CND_001197,2022-03-24,Male,580000,Scrivener Performance Engineering,Porsche,Carrera Coupe,Overhead Camshaft,Manual,Black,16000,SUV,Greenville,0,2022,3,1,Bajo
+C_CND_001278,2022-03-29,Male,580000,Clay Johnson Auto Sales,Oldsmobile,Cutlass,Double Overhead Camshaft,Auto,Pale White,46000,Sedan,Austin,0,2022,3,1,Alto
+C_CND_001372,2022-04-04,Male,857000,Race Car Help,Chevrolet,Corvette,Double Overhead Camshaft,Auto,Pale White,25001,SUV,Austin,0,2022,4,2,Medio
+C_CND_001382,2022-04-04,Male,877500,Buddy Storbeck's Diesel Service Inc,BMW,528i,Overhead Camshaft,Manual,Black,21500,SUV,Middletown,0,2022,4,2,Medio
+C_CND_001380,2022-04-04,Male,1085000,Classic Chevy,Toyota,Tacoma,Overhead Camshaft,Manual,Pale White,24500,Hardtop,Austin,0,2022,4,2,Medio
+C_CND_001443,2022-04-05,Male,910000,Rabun Used Car Sales,Cadillac,Escalade,Overhead Camshaft,Manual,Black,34000,Sedan,Scottsdale,0,2022,4,2,Alto
+C_CND_001454,2022-04-05,Male,13500,Race Car Help,Pontiac,Grand Am,Double Overhead Camshaft,Auto,Red,31000,SUV,Austin,1,2022,4,2,Alto
+C_CND_001536,2022-04-09,Female,713500,Nebo Chevrolet,Mitsubishi,Diamante,Double Overhead Camshaft,Auto,Pale White,21501,Hatchback,Middletown,0,2022,4,2,Medio
+C_CND_001634,2022-04-13,Male,1200000,Diehl Motor CO Inc,Dodge,Ram Pickup,Overhead Camshaft,Manual,Black,19000,Hardtop,Middletown,0,2022,4,2,Bajo
+C_CND_001656,2022-04-13,Male,886000,Classic Chevy,Chevrolet,Lumina,Overhead Camshaft,Manual,Black,42000,Passenger,Scottsdale,0,2022,4,2,Alto
+C_CND_001684,2022-04-14,Male,13500,New Castle Ford Lincoln Mercury,Toyota,Land Cruiser,Double Overhead Camshaft,Auto,Red,12000,SUV,Aurora,1,2022,4,2,Bajo
+C_CND_001748,2022-04-16,Male,1590000,Ryder Truck Rental and Leasing,Dodge,Viper,Double Overhead Camshaft,Auto,Red,23000,SUV,Janesville,0,2022,4,2,Medio
+C_CND_001693,2022-04-16,Female,590000,Motor Vehicle Branch Office,Chrysler,LHS,Double Overhead Camshaft,Auto,Pale White,21000,Hatchback,Austin,0,2022,4,2,Medio
+C_CND_001793,2022-04-17,Female,1010000,Clay Johnson Auto Sales,Volkswagen,GTI,Overhead Camshaft,Manual,Black,25000,SUV,Pasco,0,2022,4,2,Medio
+C_CND_001778,2022-04-17,Male,435000,Nebo Chevrolet,BMW,528i,Double Overhead Camshaft,Auto,Black,31000,SUV,Middletown,0,2022,4,2,Alto
+C_CND_001943,2022-04-22,Male,1290000,Star Enterprises Inc,Lexus,GS400,Double Overhead Camshaft,Auto,Black,12000,Hatchback,Pasco,0,2022,4,2,Bajo
+C_CND_001947,2022-04-22,Male,340000,Rabun Used Car Sales,Mitsubishi,Diamante,Double Overhead Camshaft,Auto,Pale White,21000,Hatchback,Scottsdale,0,2022,4,2,Medio
+C_CND_002083,2022-04-28,Male,794500,Progressive Shippers Cooperative Association No,Mercedes-B,S-Class,Overhead Camshaft,Manual,Red,21500,SUV,Janesville,0,2022,4,2,Medio
+C_CND_002144,2022-05-01,Male,440000,Saab-Belle Dodge,Ford,Expedition,Overhead Camshaft,Manual,Black,10000,SUV,Aurora,0,2022,5,2,Bajo
+C_CND_002227,2022-05-03,Male,565000,Chrysler Plymouth,BMW,323i,Double Overhead Camshaft,Auto,Red,19000,Hatchback,Janesville,0,2022,5,2,Bajo
+C_CND_002244,2022-05-03,Male,13500,Pitre Buick-Pontiac-Gmc of Scottsdale,Mitsubishi,Diamante,Double Overhead Camshaft,Auto,Black,17000,Hatchback,Janesville,1,2022,5,2,Bajo
+C_CND_002228,2022-05-03,Male,13500,Classic Chevy,Dodge,Stratus,Double Overhead Camshaft,Auto,Red,31000,Hatchback,Scottsdale,1,2022,5,2,Alto
+C_CND_002265,2022-05-04,Male,875000,Pitre Buick-Pontiac-Gmc of Scottsdale,Plymouth,Neon,Double Overhead Camshaft,Auto,Pale White,27000,SUV,Pasco,0,2022,5,2,Medio
+C_CND_002262,2022-05-04,Male,930000,U-Haul CO,Mitsubishi,Diamante,Overhead Camshaft,Manual,Red,19000,Hatchback,Austin,0,2022,5,2,Bajo
+C_CND_002296,2022-05-07,Male,1870000,Scrivener Performance Engineering,Pontiac,Sunfire,Overhead Camshaft,Manual,Red,43000,Sedan,Greenville,0,2022,5,2,Alto
+C_CND_002318,2022-05-08,Male,731000,Progressive Shippers Cooperative Association No,Volkswagen,Golf,Double Overhead Camshaft,Auto,Red,35000,Hardtop,Janesville,0,2022,5,2,Alto
+C_CND_002336,2022-05-08,Female,13500,Classic Chevy,Chrysler,Sebring Coupe,Double Overhead Camshaft,Auto,Pale White,46000,Sedan,Scottsdale,1,2022,5,2,Alto
+C_CND_002344,2022-05-08,Male,825000,U-Haul CO,Infiniti,I30,Double Overhead Camshaft,Auto,Black,21001,Hardtop,Austin,0,2022,5,2,Medio
+C_CND_002368,2022-05-10,Female,2865000,Rabun Used Car Sales,Mercury,Cougar,Double Overhead Camshaft,Auto,Black,33500,Hatchback,Scottsdale,0,2022,5,2,Alto
+C_CND_002421,2022-05-12,Male,975000,Pars Auto Sales,Dodge,Avenger,Double Overhead Camshaft,Auto,Red,22000,Passenger,Pasco,0,2022,5,2,Medio
+C_CND_002546,2022-05-21,Female,872500,Suburban Ford,Volvo,S40,Double Overhead Camshaft,Auto,Red,29500,Sedan,Janesville,0,2022,5,2,Alto
+C_CND_002681,2022-05-26,Male,13500,Saab-Belle Dodge,Volkswagen,Passat,Double Overhead Camshaft,Auto,Red,13000,Hatchback,Aurora,1,2022,5,2,Bajo
+C_CND_002711,2022-05-28,Female,1365000,Tri-State Mack Inc,Plymouth,Voyager,Overhead Camshaft,Manual,Red,20500,Passenger,Scottsdale,0,2022,5,2,Medio
+C_CND_002897,2022-06-01,Male,1410000,Star Enterprises Inc,Dodge,Intrepid,Overhead Camshaft,Manual,Black,11001,Sedan,Pasco,0,2022,6,2,Bajo
+C_CND_002916,2022-06-01,Male,1745000,Saab-Belle Dodge,Chevrolet,Camaro,Double Overhead Camshaft,Auto,Pale White,17500,Sedan,Aurora,0,2022,6,2,Bajo
+C_CND_002948,2022-06-04,Male,585000,Classic Chevy,Chrysler,Concorde,Overhead Camshaft,Manual,Black,18001,Hardtop,Austin,0,2022,6,2,Bajo
+C_CND_003032,2022-06-09,Female,13500,Gartner Buick Hyundai Saab,Nissan,Altima,Double Overhead Camshaft,Auto,Pale White,20000,Hatchback,Greenville,1,2022,6,2,Bajo
+C_CND_003037,2022-06-09,Male,1100000,Nebo Chevrolet,Saturn,LS,Overhead Camshaft,Manual,Pale White,14000,Sedan,Middletown,0,2022,6,2,Bajo
+C_CND_003066,2022-06-11,Male,1337000,New Castle Ford Lincoln Mercury,Dodge,Viper,Double Overhead Camshaft,Auto,Red,23700,SUV,Aurora,0,2022,6,2,Medio
+C_CND_003097,2022-06-11,Male,2210000,Buddy Storbeck's Diesel Service Inc,Mercedes-B,CL500,Overhead Camshaft,Manual,Red,29000,SUV,Middletown,0,2022,6,2,Medio
+C_CND_003197,2022-06-13,Male,2265000,Rabun Used Car Sales,Mercedes-B,SLK,Overhead Camshaft,Manual,Pale White,17500,Passenger,Aurora,0,2022,6,2,Bajo
+C_CND_003236,2022-06-15,Male,13500,Race Car Help,Nissan,Frontier,Double Overhead Camshaft,Auto,Pale White,18000,Hatchback,Scottsdale,1,2022,6,2,Bajo
+C_CND_003238,2022-06-15,Male,13500,Saab-Belle Dodge,Mercedes-B,S-Class,Double Overhead Camshaft,Auto,Black,39000,SUV,Middletown,1,2022,6,2,Alto
+C_CND_003264,2022-06-16,Male,1310000,Gartner Buick Hyundai Saab,Mercedes-B,S-Class,Double Overhead Camshaft,Auto,Pale White,10000,SUV,Greenville,0,2022,6,2,Bajo
+C_CND_003323,2022-06-18,Male,13500,Diehl Motor CO Inc,Mercury,Mountaineer,Double Overhead Camshaft,Auto,Pale White,21001,Hardtop,Middletown,1,2022,6,2,Medio
+C_CND_003339,2022-06-18,Female,1125000,New Castle Ford Lincoln Mercury,Plymouth,Neon,Overhead Camshaft,Manual,Pale White,22500,SUV,Scottsdale,0,2022,6,2,Medio
+C_CND_003363,2022-06-19,Male,498000,Progressive Shippers Cooperative Association No,Oldsmobile,Bravada,Double Overhead Camshaft,Auto,Red,19000,Hatchback,Janesville,0,2022,6,2,Bajo
+C_CND_003381,2022-06-20,Female,889500,Race Car Help,Mercedes-B,S-Class,Double Overhead Camshaft,Auto,Pale White,10500,SUV,Austin,0,2022,6,2,Bajo
+C_CND_003449,2022-06-25,Male,1100000,Rabun Used Car Sales,Mercedes-B,S-Class,Double Overhead Camshaft,Auto,Pale White,10001,SUV,Scottsdale,0,2022,6,2,Bajo
+C_CND_003573,2022-06-29,Female,290000,Progressive Shippers Cooperative Association No,Volkswagen,Passat,Overhead Camshaft,Manual,Pale White,12000,Hatchback,Janesville,0,2022,6,2,Bajo
+C_CND_003591,2022-07-02,Male,1350000,Motor Vehicle Branch Office,Mitsubishi,Diamante,Overhead Camshaft,Manual,Red,19000,Hatchback,Austin,0,2022,7,3,Bajo
+C_CND_003583,2022-07-02,Male,785000,Classic Chevy,Mercedes-B,M-Class,Overhead Camshaft,Manual,Pale White,41001,SUV,Scottsdale,0,2022,7,3,Alto
+C_CND_003649,2022-07-03,Female,1400000,Rabun Used Car Sales,Mitsubishi,Diamante,Double Overhead Camshaft,Auto,Pale White,21000,Hatchback,Scottsdale,0,2022,7,3,Medio
+C_CND_003672,2022-07-04,Female,13500,Saab-Belle Dodge,Mercury,Cougar,Double Overhead Camshaft,Auto,Black,33001,Hatchback,Aurora,1,2022,7,3,Alto
+C_CND_003727,2022-07-06,Male,806000,U-Haul CO,Ford,Expedition,Overhead Camshaft,Manual,Black,10000,SUV,Austin,0,2022,7,3,Bajo
+C_CND_003779,2022-07-09,Female,13500,Saab-Belle Dodge,BMW,528i,Overhead Camshaft,Manual,Red,29000,SUV,Aurora,1,2022,7,3,Medio
+C_CND_003796,2022-07-09,Male,450000,Rabun Used Car Sales,Oldsmobile,Aurora,Double Overhead Camshaft,Auto,Red,24000,Passenger,Scottsdale,0,2022,7,3,Medio
+C_CND_003819,2022-07-09,Male,660000,Suburban Ford,Mercedes-B,S-Class,Overhead Camshaft,Manual,Red,21000,SUV,Middletown,0,2022,7,3,Medio
+C_CND_003823,2022-07-09,Male,465000,Rabun Used Car Sales,Subaru,Forester,Overhead Camshaft,Manual,Red,26000,Hatchback,Janesville,0,2022,7,3,Medio
+C_CND_003899,2022-07-12,Male,440000,Ryder Truck Rental and Leasing,Subaru,Forester,Double Overhead Camshaft,Auto,Black,22000,SUV,Middletown,0,2022,7,3,Medio
+C_CND_003913,2022-07-12,Male,13500,McKinney Dodge Chrysler Jeep,Cadillac,Escalade,Double Overhead Camshaft,Auto,Pale White,38000,Sedan,Scottsdale,1,2022,7,3,Alto
+C_CND_003966,2022-07-14,Male,13500,Saab-Belle Dodge,Volkswagen,Cabrio,Double Overhead Camshaft,Auto,Black,16000,Sedan,Aurora,1,2022,7,3,Bajo
+C_CND_003972,2022-07-14,Male,420000,U-Haul CO,Honda,Accord,Double Overhead Camshaft,Auto,Pale White,21001,Sedan,Austin,0,2022,7,3,Medio
+C_CND_004012,2022-07-16,Female,516000,Saab-Belle Dodge,Dodge,Ram Van,Double Overhead Camshaft,Auto,Black,60000,Hatchback,Austin,0,2022,7,3,Alto
+C_CND_004094,2022-07-20,Female,13500,Pars Auto Sales,Lexus,LS400,Double Overhead Camshaft,Auto,Black,39000,Sedan,Greenville,1,2022,7,3,Alto
+C_CND_004084,2022-07-20,Male,442500,McKinney Dodge Chrysler Jeep,Lexus,LS400,Double Overhead Camshaft,Auto,Black,22500,Sedan,Scottsdale,0,2022,7,3,Medio
+C_CND_004158,2022-07-25,Male,1690000,Hatfield Volkswagen,Dodge,Intrepid,Overhead Camshaft,Manual,Black,11000,Sedan,Pasco,0,2022,7,3,Bajo
+C_CND_004153,2022-07-25,Male,1193000,Classic Chevy,Plymouth,Voyager,Overhead Camshaft,Manual,Red,12300,Passenger,Scottsdale,0,2022,7,3,Bajo
+C_CND_004173,2022-07-25,Male,599000,Rabun Used Car Sales,Lincoln,Navigator,Double Overhead Camshaft,Auto,Black,19000,Sedan,Scottsdale,0,2022,7,3,Bajo
+C_CND_004185,2022-07-25,Female,13500,U-Haul CO,Nissan,Frontier,Overhead Camshaft,Manual,Black,53000,Hatchback,Greenville,1,2022,7,3,Alto
+C_CND_004228,2022-07-27,Male,1225000,Buddy Storbeck's Diesel Service Inc,Toyota,Camry,Double Overhead Camshaft,Auto,Red,31501,Hatchback,Middletown,0,2022,7,3,Alto
+C_CND_004274,2022-07-31,Female,610000,Progressive Shippers Cooperative Association No,Mercury,Grand Marquis,Overhead Camshaft,Manual,Red,71000,SUV,Janesville,0,2022,7,3,Alto
+C_CND_004336,2022-08-05,Female,665000,Saab-Belle Dodge,Mitsubishi,Diamante,Double Overhead Camshaft,Auto,Pale White,21000,Hatchback,Aurora,0,2022,8,3,Medio
+C_CND_004364,2022-08-06,Male,13500,Tri-State Mack Inc,Lincoln,Continental,Overhead Camshaft,Manual,Black,42000,Passenger,Scottsdale,1,2022,8,3,Alto
+C_CND_004375,2022-08-07,Male,700000,Motor Vehicle Branch Office,Ford,Focus,Overhead Camshaft,Manual,Red,24000,SUV,Austin,0,2022,8,3,Medio
+C_CND_004458,2022-08-08,Female,1140000,Enterprise Rent A Car,Ford,Ranger,Double Overhead Camshaft,Auto,Black,61000,Hatchback,Janesville,0,2022,8,3,Alto
+C_CND_004418,2022-08-08,Female,2350000,Star Enterprises Inc,Volvo,S70,Double Overhead Camshaft,Auto,Black,26001,SUV,Pasco,0,2022,8,3,Medio
+C_CND_004465,2022-08-09,Male,905000,Ryder Truck Rental and Leasing,Subaru,Outback,Double Overhead Camshaft,Auto,Pale White,19001,SUV,Middletown,0,2022,8,3,Bajo
+C_CND_004553,2022-08-10,Male,13500,Suburban Ford,Saturn,LW,Overhead Camshaft,Manual,Pale White,13000,Hatchback,Janesville,1,2022,8,3,Bajo
+C_CND_004587,2022-08-11,Male,1260000,Scrivener Performance Engineering,Buick,Park Avenue,Overhead Camshaft,Manual,Black,29000,Hatchback,Greenville,0,2022,8,3,Medio
+C_CND_004647,2022-08-16,Male,13500,Ryder Truck Rental and Leasing,Mercedes-B,CL500,Overhead Camshaft,Manual,Black,22000,SUV,Middletown,1,2022,8,3,Medio
+C_CND_004727,2022-08-17,Female,740000,Scrivener Performance Engineering,Nissan,Xterra,Double Overhead Camshaft,Auto,Black,26000,Passenger,Scottsdale,0,2022,8,3,Medio
+C_CND_004814,2022-08-22,Male,1260000,Chrysler of Tri-Cities,Pontiac,Grand Prix,Double Overhead Camshaft,Auto,Red,19000,Passenger,Pasco,0,2022,8,3,Bajo
+C_CND_004871,2022-08-23,Female,1485000,Motor Vehicle Branch Office,Dodge,Viper,Double Overhead Camshaft,Auto,Pale White,25500,SUV,Greenville,0,2022,8,3,Medio
+C_CND_004854,2022-08-23,Male,680000,New Castle Ford Lincoln Mercury,Mercury,Villager,Double Overhead Camshaft,Auto,Black,16000,Passenger,Aurora,0,2022,8,3,Bajo
+C_CND_004883,2022-08-24,Male,13500,Chrysler Plymouth,Jaguar,S-Type,Double Overhead Camshaft,Auto,Black,16001,Passenger,Janesville,1,2022,8,3,Bajo
+C_CND_004915,2022-08-24,Male,13500,U-Haul CO,Hyundai,Sonata,Overhead Camshaft,Manual,Pale White,13000,SUV,Austin,1,2022,8,3,Bajo
+C_CND_005048,2022-08-29,Female,13500,Gartner Buick Hyundai Saab,Chevrolet,Corvette,Double Overhead Camshaft,Auto,Pale White,46000,SUV,Greenville,1,2022,8,3,Alto
+C_CND_005110,2022-09-01,Male,500000,Tri-State Mack Inc,Volkswagen,Jetta,Double Overhead Camshaft,Auto,Red,16000,Passenger,Scottsdale,0,2022,9,3,Bajo
+C_CND_005160,2022-09-03,Male,1131000,Star Enterprises Inc,Pontiac,Sunfire,Overhead Camshaft,Manual,Red,43100,Sedan,Pasco,0,2022,9,3,Alto
+C_CND_005240,2022-09-05,Male,1185000,Enterprise Rent A Car,Pontiac,Grand Prix,Double Overhead Camshaft,Auto,Red,69500,Passenger,Aurora,0,2022,9,3,Alto
+C_CND_005385,2022-09-07,Male,1361000,Scrivener Performance Engineering,Dodge,Durango,Overhead Camshaft,Manual,Pale White,27100,SUV,Middletown,0,2022,9,3,Medio
+C_CND_005408,2022-09-08,Female,850000,Rabun Used Car Sales,Volkswagen,Cabrio,Overhead Camshaft,Manual,Pale White,25000,Sedan,Scottsdale,0,2022,9,3,Medio
+C_CND_005426,2022-09-10,Male,1000000,Enterprise Rent A Car,Ford,F-Series,Overhead Camshaft,Manual,Pale White,13000,Passenger,Aurora,0,2022,9,3,Bajo
+C_CND_005476,2022-09-11,Male,13500,Progressive Shippers Cooperative Association No,Audi,A6,Overhead Camshaft,Manual,Pale White,24000,SUV,Janesville,1,2022,9,3,Medio
+C_CND_005474,2022-09-11,Male,2255000,Ryder Truck Rental and Leasing,Porsche,Carrera Coupe,Double Overhead Camshaft,Auto,Pale White,22501,Hardtop,Middletown,0,2022,9,3,Medio
+C_CND_005500,2022-09-11,Male,800000,Saab-Belle Dodge,Oldsmobile,Intrigue,Double Overhead Camshaft,Auto,Pale White,39000,SUV,Aurora,0,2022,9,3,Alto
+C_CND_005523,2022-09-11,Female,1550000,Race Car Help,Ford,Expedition,Overhead Camshaft,Manual,Black,18000,SUV,Austin,0,2022,9,3,Bajo
+C_CND_005631,2022-09-13,Male,840000,Enterprise Rent A Car,Volkswagen,Cabrio,Double Overhead Camshaft,Auto,Black,16000,Sedan,Pasco,0,2022,9,3,Bajo
+C_CND_005698,2022-09-15,Male,13500,Rabun Used Car Sales,Chrysler,LHS,Double Overhead Camshaft,Auto,Pale White,20000,Hatchback,Scottsdale,1,2022,9,3,Bajo
+C_CND_005836,2022-09-17,Male,874000,Race Car Help,Lincoln,Continental,Overhead Camshaft,Manual,Pale White,82000,Passenger,Austin,0,2022,9,3,Alto
+C_CND_005769,2022-09-17,Female,13500,Buddy Storbeck's Diesel Service Inc,Porsche,Carrera Coupe,Double Overhead Camshaft,Auto,Pale White,22000,Hatchback,Middletown,1,2022,9,3,Medio
+C_CND_005767,2022-09-17,Female,1300000,Tri-State Mack Inc,Mercury,Sable,Double Overhead Camshaft,Auto,Pale White,39000,Sedan,Scottsdale,0,2022,9,3,Alto
+C_CND_005923,2022-09-18,Female,705000,Star Enterprises Inc,Mitsubishi,Montero Sport,Overhead Camshaft,Manual,Pale White,29000,Hardtop,Janesville,0,2022,9,3,Medio
+C_CND_005874,2022-09-18,Male,1550000,Motor Vehicle Branch Office,Dodge,Ram Pickup,Overhead Camshaft,Manual,Pale White,16000,Hatchback,Austin,0,2022,9,3,Bajo
+C_CND_005943,2022-09-19,Female,985000,Tri-State Mack Inc,Acura,TL,Double Overhead Camshaft,Auto,Black,23000,Hatchback,Scottsdale,0,2022,9,3,Medio
+C_CND_006075,2022-09-21,Male,13500,Tri-State Mack Inc,Oldsmobile,Cutlass,Double Overhead Camshaft,Auto,Pale White,41000,Sedan,Scottsdale,1,2022,9,3,Alto
+C_CND_006052,2022-09-21,Male,935000,Progressive Shippers Cooperative Association No,Ford,Escort,Double Overhead Camshaft,Auto,Pale White,15001,Passenger,Janesville,0,2022,9,3,Bajo
+C_CND_006096,2022-09-21,Male,431000,Buddy Storbeck's Diesel Service Inc,Porsche,Carrera Coupe,Double Overhead Camshaft,Auto,Pale White,22000,Hardtop,Greenville,0,2022,9,3,Medio
+C_CND_006090,2022-09-21,Female,1180000,Rabun Used Car Sales,Acura,TL,Overhead Camshaft,Manual,Pale White,14000,Hatchback,Aurora,0,2022,9,3,Bajo
+C_CND_006115,2022-09-22,Female,2000000,Star Enterprises Inc,Oldsmobile,Aurora,Double Overhead Camshaft,Auto,Pale White,24000,Passenger,Pasco,0,2022,9,3,Medio
+C_CND_006112,2022-09-22,Female,13500,Ryder Truck Rental and Leasing,Dodge,Durango,Double Overhead Camshaft,Auto,Pale White,10000,SUV,Middletown,1,2022,9,3,Bajo
+C_CND_006154,2022-09-22,Male,1900000,Chrysler Plymouth,Mercury,Mountaineer,Double Overhead Camshaft,Auto,Pale White,21000,Hardtop,Austin,0,2022,9,3,Medio
+C_CND_006181,2022-09-24,Male,937000,Classic Chevy,Dodge,Ram Van,Double Overhead Camshaft,Auto,Pale White,31000,Hatchback,Scottsdale,0,2022,9,3,Alto
+C_CND_006308,2022-09-25,Male,910000,Star Enterprises Inc,Subaru,Forester,Double Overhead Camshaft,Auto,Black,22000,Hatchback,Pasco,0,2022,9,3,Medio
+C_CND_006318,2022-09-25,Male,910000,Clay Johnson Auto Sales,Plymouth,Neon,Overhead Camshaft,Manual,Black,29001,SUV,Austin,0,2022,9,3,Alto
+C_CND_006438,2022-09-26,Male,1832000,Buddy Storbeck's Diesel Service Inc,Jaguar,S-Type,Double Overhead Camshaft,Auto,Black,16200,Passenger,Middletown,0,2022,9,3,Bajo
+C_CND_006421,2022-09-26,Male,742000,Race Car Help,Chevrolet,Impala,Overhead Camshaft,Manual,Pale White,14000,Hatchback,Austin,0,2022,9,3,Bajo
+C_CND_006420,2022-09-26,Male,430000,U-Haul CO,Honda,Passport,Double Overhead Camshaft,Auto,Black,26000,Hatchback,Austin,0,2022,9,3,Medio
+C_CND_006485,2022-09-27,Male,887500,Saab-Belle Dodge,Ford,Expedition,Overhead Camshaft,Manual,Black,18500,SUV,Aurora,0,2022,9,3,Bajo
+C_CND_006525,2022-09-28,Male,655000,C & M Motors Inc,Oldsmobile,Intrigue,Overhead Camshaft,Manual,Pale White,37000,SUV,Aurora,0,2022,9,3,Alto
+C_CND_006561,2022-09-28,Male,525000,Enterprise Rent A Car,Chrysler,Sebring Coupe,Overhead Camshaft,Manual,Black,12000,Sedan,Janesville,0,2022,9,3,Bajo
+C_CND_006568,2022-10-01,Male,1900000,Scrivener Performance Engineering,Buick,LeSabre,Overhead Camshaft,Manual,Black,20000,Sedan,Greenville,0,2022,10,4,Bajo
+C_CND_006632,2022-10-02,Female,1390000,Scrivener Performance Engineering,Saab,3-Sep,Double Overhead Camshaft,Auto,Black,23000,Sedan,Greenville,0,2022,10,4,Medio
+C_CND_006719,2022-10-04,Male,460000,Race Car Help,Volvo,S70,Double Overhead Camshaft,Auto,Black,26000,Hardtop,Scottsdale,0,2022,10,4,Medio
+C_CND_006745,2022-10-05,Male,950000,Progressive Shippers Cooperative Association No,Infiniti,I30,Double Overhead Camshaft,Auto,Black,49000,Hardtop,Janesville,0,2022,10,4,Alto
+C_CND_006749,2022-10-05,Male,391000,Gartner Buick Hyundai Saab,Nissan,Pathfinder,Double Overhead Camshaft,Auto,Pale White,75000,Hardtop,Aurora,0,2022,10,4,Alto
+C_CND_006759,2022-10-08,Male,595000,Enterprise Rent A Car,Mercedes-B,SLK,Overhead Camshaft,Manual,Pale White,17000,Passenger,Aurora,0,2022,10,4,Bajo
+C_CND_006828,2022-10-09,Male,1751000,Suburban Ford,Chevrolet,Impala,Double Overhead Camshaft,Auto,Black,21100,Hatchback,Middletown,0,2022,10,4,Medio
+C_CND_006995,2022-10-18,Male,435000,Race Car Help,Hyundai,Accent,Overhead Camshaft,Manual,Black,18000,Hatchback,Austin,0,2022,10,4,Bajo
+C_CND_007008,2022-10-18,Male,13500,Ryder Truck Rental and Leasing,Cadillac,Escalade,Double Overhead Camshaft,Auto,Black,26000,Sedan,Scottsdale,1,2022,10,4,Medio
+C_CND_007032,2022-10-19,Male,1390000,C & M Motors Inc,Cadillac,Eldorado,Double Overhead Camshaft,Auto,Black,60000,Passenger,Aurora,0,2022,10,4,Alto
+C_CND_007077,2022-10-22,Male,743000,Pitre Buick-Pontiac-Gmc of Scottsdale,Honda,Passport,Overhead Camshaft,Manual,Pale White,13000,Hardtop,Pasco,0,2022,10,4,Bajo
+C_CND_007116,2022-10-23,Male,973500,Classic Chevy,Ford,Mustang,Overhead Camshaft,Manual,Red,43501,Hatchback,Scottsdale,0,2022,10,4,Alto
+C_CND_007144,2022-10-23,Male,13500,Chrysler of Tri-Cities,Jeep,Cherokee,Double Overhead Camshaft,Auto,Red,14000,Sedan,Aurora,1,2022,10,4,Bajo
+C_CND_007207,2022-10-25,Male,1275000,Saab-Belle Dodge,Chrysler,LHS,Overhead Camshaft,Manual,Pale White,41500,Hatchback,Austin,0,2022,10,4,Alto
+C_CND_007521,2022-11-03,Male,493000,Capitol KIA,Saturn,SC,Double Overhead Camshaft,Auto,Red,12000,Hardtop,Greenville,0,2022,11,4,Bajo
+C_CND_007584,2022-11-06,Male,860000,Saab-Belle Dodge,Mitsubishi,Diamante,Overhead Camshaft,Manual,Red,12000,Hatchback,Aurora,0,2022,11,4,Bajo
+C_CND_007605,2022-11-07,Female,715000,Scrivener Performance Engineering,Acura,Integra,Double Overhead Camshaft,Auto,Black,45000,Passenger,Greenville,0,2022,11,4,Alto
+C_CND_007669,2022-11-08,Male,485000,Progressive Shippers Cooperative Association No,Volvo,S40,Overhead Camshaft,Manual,Red,17000,Sedan,Janesville,0,2022,11,4,Bajo
+C_CND_007695,2022-11-08,Male,582000,Clay Johnson Auto Sales,Chevrolet,Lumina,Overhead Camshaft,Manual,Black,10000,Passenger,Austin,0,2022,11,4,Bajo
+C_CND_007712,2022-11-08,Male,13500,Scrivener Performance Engineering,Chrysler,LHS,Overhead Camshaft,Manual,Black,51000,Hatchback,Greenville,1,2022,11,4,Alto
+C_CND_007777,2022-11-08,Male,835000,Hatfield Volkswagen,Cadillac,DeVille,Double Overhead Camshaft,Auto,Red,22000,SUV,Middletown,0,2022,11,4,Medio
+C_CND_007836,2022-11-09,Male,13500,Diehl Motor CO Inc,Oldsmobile,Silhouette,Double Overhead Camshaft,Auto,Black,60000,Sedan,Middletown,1,2022,11,4,Alto
+C_CND_008036,2022-11-13,Male,1831000,Diehl Motor CO Inc,Mitsubishi,3000GT,Overhead Camshaft,Manual,Black,18100,Sedan,Middletown,0,2022,11,4,Bajo
+C_CND_008133,2022-11-14,Male,930000,Chrysler of Tri-Cities,Lexus,GS400,Overhead Camshaft,Manual,Black,53000,Hatchback,Aurora,0,2022,11,4,Alto
+C_CND_008100,2022-11-14,Male,718000,U-Haul CO,Mercury,Mountaineer,Double Overhead Camshaft,Auto,Pale White,21001,Hardtop,Austin,0,2022,11,4,Medio
+C_CND_008072,2022-11-14,Male,1472500,Progressive Shippers Cooperative Association No,Chevrolet,Prizm,Overhead Camshaft,Manual,Red,24250,Hatchback,Janesville,0,2022,11,4,Medio
+C_CND_008279,2022-11-17,Male,1400000,Rabun Used Car Sales,Dodge,Ram Pickup,Double Overhead Camshaft,Auto,Red,57000,Hardtop,Scottsdale,0,2022,11,4,Alto
+C_CND_008251,2022-11-17,Male,1700000,Chrysler Plymouth,Lexus,LS400,Overhead Camshaft,Manual,Black,69001,Sedan,Janesville,0,2022,11,4,Alto
+C_CND_008300,2022-11-19,Male,730000,Motor Vehicle Branch Office,Volkswagen,Jetta,Double Overhead Camshaft,Auto,Red,16001,Passenger,Austin,0,2022,11,4,Bajo
+C_CND_008334,2022-11-20,Male,660000,Saab-Belle Dodge,Acura,RL,Overhead Camshaft,Manual,Red,17000,SUV,Aurora,0,2022,11,4,Bajo
+C_CND_008376,2022-11-20,Male,1295000,Ryder Truck Rental and Leasing,Toyota,Corolla,Double Overhead Camshaft,Auto,Red,41500,Passenger,Middletown,0,2022,11,4,Alto
+C_CND_008391,2022-11-20,Male,13500,Tri-State Mack Inc,Ford,Taurus,Overhead Camshaft,Manual,Black,69000,SUV,Scottsdale,1,2022,11,4,Alto
+C_CND_008493,2022-11-21,Male,1467000,Progressive Shippers Cooperative Association No,Nissan,Frontier,Overhead Camshaft,Manual,Pale White,20700,Hatchback,Janesville,0,2022,11,4,Medio
+C_CND_008469,2022-11-21,Male,1200000,McKinney Dodge Chrysler Jeep,Cadillac,Eldorado,Double Overhead Camshaft,Auto,Red,31001,Passenger,Scottsdale,0,2022,11,4,Alto
+C_CND_008573,2022-11-22,Female,1060000,Progressive Shippers Cooperative Association No,BMW,328i,Double Overhead Camshaft,Auto,Black,18000,Sedan,Janesville,0,2022,11,4,Bajo
+C_CND_008588,2022-11-22,Male,508000,Clay Johnson Auto Sales,Dodge,Avenger,Double Overhead Camshaft,Auto,Red,39000,Passenger,Austin,0,2022,11,4,Alto
+C_CND_008620,2022-11-23,Female,1300000,Progressive Shippers Cooperative Association No,Chevrolet,Malibu,Overhead Camshaft,Manual,Pale White,57000,Hatchback,Janesville,0,2022,11,4,Alto
+C_CND_008669,2022-11-24,Female,13500,U-Haul CO,Acura,Integra,Double Overhead Camshaft,Auto,Black,45000,Passenger,Austin,1,2022,11,4,Alto
+C_CND_008707,2022-11-24,Male,842000,Scrivener Performance Engineering,Oldsmobile,Alero,Overhead Camshaft,Manual,Black,17000,Hardtop,Greenville,0,2022,11,4,Bajo
+C_CND_008725,2022-11-26,Male,560000,Ryder Truck Rental and Leasing,Lexus,LS400,Overhead Camshaft,Manual,Red,25001,Sedan,Middletown,0,2022,11,4,Medio
+C_CND_008818,2022-11-27,Male,6400000,Pars Auto Sales,Mercury,Grand Marquis,Overhead Camshaft,Manual,Red,71000,SUV,Austin,0,2022,11,4,Alto
+C_CND_008916,2022-11-29,Male,1870000,Rabun Used Car Sales,Pontiac,Bonneville,Overhead Camshaft,Manual,Red,11000,Hatchback,Scottsdale,0,2022,11,4,Bajo
+C_CND_008992,2022-11-30,Male,600000,Star Enterprises Inc,Dodge,Avenger,Double Overhead Camshaft,Auto,Red,39000,Passenger,Pasco,0,2022,11,4,Alto
+C_CND_009029,2022-12-01,Male,1650000,Scrivener Performance Engineering,Chevrolet,Lumina,Overhead Camshaft,Manual,Red,12001,Passenger,Greenville,0,2022,12,4,Bajo
+C_CND_009208,2022-12-04,Male,13500,Chrysler of Tri-Cities,Mercedes-B,CLK Coupe,Double Overhead Camshaft,Auto,Pale White,22000,Sedan,Pasco,1,2022,12,4,Medio
+C_CND_009268,2022-12-05,Male,13500,Gartner Buick Hyundai Saab,Mercedes-B,SL-Class,Overhead Camshaft,Manual,Pale White,26001,Hardtop,Greenville,1,2022,12,4,Medio
+C_CND_009298,2022-12-05,Female,687000,Suburban Ford,Honda,Accord,Double Overhead Camshaft,Auto,Pale White,19000,Sedan,Janesville,0,2022,12,4,Bajo
+C_CND_009363,2022-12-06,Male,2400000,Gartner Buick Hyundai Saab,Pontiac,Bonneville,Double Overhead Camshaft,Auto,Pale White,20001,Hatchback,Greenville,0,2022,12,4,Medio
+C_CND_009552,2022-12-10,Male,798000,Classic Chevy,Mitsubishi,3000GT,Double Overhead Camshaft,Auto,Black,39001,Sedan,Scottsdale,0,2022,12,4,Alto
+C_CND_009618,2022-12-11,Female,13500,Saab-Belle Dodge,Nissan,Maxima,Overhead Camshaft,Manual,Pale White,29000,Sedan,Aurora,1,2022,12,4,Medio
+C_CND_009701,2022-12-11,Male,13500,Hatfield Volkswagen,Audi,A8,Overhead Camshaft,Manual,Pale White,13000,Passenger,Aurora,1,2022,12,4,Bajo
+C_CND_009619,2022-12-11,Male,2405000,Scrivener Performance Engineering,Volkswagen,Jetta,Double Overhead Camshaft,Auto,Pale White,16500,Passenger,Greenville,0,2022,12,4,Bajo
+C_CND_009788,2022-12-12,Male,621000,Rabun Used Car Sales,Chevrolet,Corvette,Overhead Camshaft,Manual,Pale White,22000,SUV,Pasco,0,2022,12,4,Medio
+C_CND_009792,2022-12-13,Male,1445000,Progressive Shippers Cooperative Association No,Nissan,Quest,Overhead Camshaft,Manual,Black,12500,SUV,Janesville,0,2022,12,4,Bajo
+C_CND_009831,2022-12-13,Male,13500,Suburban Ford,Mitsubishi,Montero Sport,Double Overhead Camshaft,Auto,Pale White,39000,Hardtop,Janesville,1,2022,12,4,Alto
+C_CND_009822,2022-12-13,Female,13500,New Castle Ford Lincoln Mercury,BMW,323i,Double Overhead Camshaft,Auto,Pale White,22001,Hatchback,Aurora,1,2022,12,4,Medio
+C_CND_009891,2022-12-14,Male,1830000,Hatfield Volkswagen,Lexus,LS400,Double Overhead Camshaft,Auto,Pale White,46000,Sedan,Aurora,0,2022,12,4,Alto
+C_CND_009845,2022-12-14,Male,13500,Diehl Motor CO Inc,Dodge,Ram Pickup,Overhead Camshaft,Manual,Pale White,16000,Hatchback,Middletown,1,2022,12,4,Bajo
+C_CND_009926,2022-12-15,Male,13500,Suburban Ford,Saab,3-Sep,Double Overhead Camshaft,Auto,Black,23001,Sedan,Janesville,1,2022,12,4,Medio
+C_CND_009900,2022-12-15,Female,13500,Nebo Chevrolet,Jeep,Grand Cherokee,Overhead Camshaft,Manual,Pale White,21000,SUV,Middletown,1,2022,12,4,Medio
+C_CND_010003,2022-12-17,Male,817000,Star Enterprises Inc,Pontiac,Sunfire,Overhead Camshaft,Manual,Pale White,43000,Sedan,Aurora,0,2022,12,4,Alto
+C_CND_010050,2022-12-19,Female,1800000,Hatfield Volkswagen,Ford,Taurus,Overhead Camshaft,Manual,Black,69001,SUV,Pasco,0,2022,12,4,Alto
+C_CND_010144,2022-12-20,Female,431000,U-Haul CO,Volkswagen,Passat,Double Overhead Camshaft,Auto,Black,21000,Hatchback,Austin,0,2022,12,4,Medio
+C_CND_010166,2022-12-21,Female,930000,Tri-State Mack Inc,Dodge,Ram Van,Double Overhead Camshaft,Auto,Pale White,31000,Hatchback,Scottsdale,0,2022,12,4,Alto
+C_CND_010193,2022-12-21,Male,775000,Iceberg Rentals,Acura,RL,Overhead Camshaft,Manual,Pale White,31000,SUV,Janesville,0,2022,12,4,Alto
+C_CND_010295,2022-12-24,Male,918000,U-Haul CO,Chrysler,LHS,Double Overhead Camshaft,Auto,Pale White,21001,Hatchback,Austin,0,2022,12,4,Medio
+C_CND_010363,2022-12-25,Female,13500,Hatfield Volkswagen,Mitsubishi,Diamante,Double Overhead Camshaft,Auto,Pale White,21001,Hatchback,Pasco,1,2022,12,4,Medio
+C_CND_010479,2022-12-27,Female,1035000,Tri-State Mack Inc,Jaguar,S-Type,Double Overhead Camshaft,Auto,Black,27501,Passenger,Scottsdale,0,2022,12,4,Medio
+C_CND_010514,2022-12-27,Female,891000,Star Enterprises Inc,Subaru,Forester,Double Overhead Camshaft,Auto,Black,22000,SUV,Pasco,0,2022,12,4,Medio
+C_CND_010507,2022-12-27,Male,740000,U-Haul CO,Dodge,Durango,Overhead Camshaft,Manual,Pale White,27001,SUV,Austin,0,2022,12,4,Medio
+C_CND_010496,2022-12-27,Male,431000,Star Enterprises Inc,Chevrolet,Metro,Double Overhead Camshaft,Auto,Pale White,12000,Passenger,Pasco,0,2022,12,4,Bajo
+C_CND_010508,2022-12-27,Female,570000,Progressive Shippers Cooperative Association No,Lincoln,Continental,Overhead Camshaft,Manual,Pale White,27000,Passenger,Janesville,0,2022,12,4,Medio
+C_CND_010628,2022-12-31,Male,875000,Scrivener Performance Engineering,Mercedes-B,CL500,Overhead Camshaft,Manual,Black,22000,SUV,Greenville,0,2022,12,4,Medio
+C_CND_010710,2023-01-05,Male,852000,Chrysler of Tri-Cities,Chevrolet,Metro,Double Overhead Camshaft,Auto,Pale White,19000,Passenger,Pasco,0,2023,1,1,Bajo
+C_CND_010743,2023-01-08,Male,615000,Diehl Motor CO Inc,BMW,328i,Overhead Camshaft,Manual,Red,21000,Sedan,Middletown,0,2023,1,1,Medio
+C_CND_010757,2023-01-09,Male,860000,Race Car Help,Volvo,S70,Double Overhead Camshaft,Auto,Black,26000,Hatchback,Austin,0,2023,1,1,Medio
+C_CND_010812,2023-01-14,Male,1175000,Race Car Help,Chevrolet,Prizm,Overhead Camshaft,Manual,Pale White,22501,Hardtop,Austin,0,2023,1,1,Medio
+C_CND_010828,2023-01-15,Male,935000,Capitol KIA,Volkswagen,Golf,Double Overhead Camshaft,Auto,Pale White,18001,Hardtop,Greenville,0,2023,1,1,Bajo
+C_CND_010876,2023-01-17,Male,13500,Saab-Belle Dodge,Jeep,Grand Cherokee,Overhead Camshaft,Manual,Pale White,15000,SUV,Aurora,1,2023,1,1,Bajo
+C_CND_010953,2023-01-22,Male,13500,Iceberg Rentals,Mercedes-B,SLK230,Overhead Camshaft,Manual,Pale White,14000,Hatchback,Janesville,1,2023,1,1,Bajo
+C_CND_010946,2023-01-22,Male,13500,McKinney Dodge Chrysler Jeep,Dodge,Ram Van,Double Overhead Camshaft,Auto,Black,60000,Hatchback,Scottsdale,1,2023,1,1,Alto
+C_CND_010994,2023-01-23,Female,585000,Chrysler of Tri-Cities,Mitsubishi,Eclipse,Double Overhead Camshaft,Auto,Black,27001,Hardtop,Pasco,0,2023,1,1,Medio
+C_CND_011015,2023-01-25,Male,465000,Tri-State Mack Inc,Subaru,Forester,Overhead Camshaft,Manual,Red,26000,Hardtop,Scottsdale,0,2023,1,1,Medio
+C_CND_011038,2023-01-28,Male,886500,Rabun Used Car Sales,Mercury,Grand Marquis,Overhead Camshaft,Manual,Red,71501,SUV,Scottsdale,0,2023,1,1,Alto
+C_CND_011113,2023-01-31,Male,868000,Gartner Buick Hyundai Saab,Chevrolet,Metro,Double Overhead Camshaft,Auto,Pale White,19000,Passenger,Greenville,0,2023,1,1,Bajo
+C_CND_011106,2023-01-31,Male,13500,Chrysler of Tri-Cities,Nissan,Altima,Double Overhead Camshaft,Auto,Pale White,20000,Hatchback,Pasco,1,2023,1,1,Bajo
+C_CND_011204,2023-02-05,Male,618500,Rabun Used Car Sales,Acura,RL,Overhead Camshaft,Manual,Red,17500,SUV,Scottsdale,0,2023,2,1,Bajo
+C_CND_011273,2023-02-07,Female,900000,Chrysler of Tri-Cities,Ford,Focus,Overhead Camshaft,Manual,Black,49001,Hardtop,Pasco,0,2023,2,1,Alto
+C_CND_011278,2023-02-08,Male,800000,Tri-State Mack Inc,Honda,Accord,Overhead Camshaft,Manual,Black,43000,Sedan,Scottsdale,0,2023,2,1,Alto
+C_CND_011280,2023-02-08,Female,255000,U-Haul CO,Buick,Regal,Overhead Camshaft,Manual,Red,43000,Passenger,Austin,0,2023,2,1,Alto
+C_CND_011380,2023-02-16,Female,2300000,Rabun Used Car Sales,Audi,A8,Overhead Camshaft,Manual,Red,13000,Passenger,Scottsdale,0,2023,2,1,Bajo
+C_CND_011545,2023-03-01,Male,585000,Pars Auto Sales,Buick,Regal,Double Overhead Camshaft,Auto,Black,19000,Passenger,Greenville,0,2023,3,1,Bajo
+C_CND_011612,2023-03-03,Male,13500,U-Haul CO,Mercedes-B,C-Class,Double Overhead Camshaft,Auto,Black,14000,Hatchback,Austin,1,2023,3,1,Bajo
+C_CND_011588,2023-03-03,Male,960000,Hatfield Volkswagen,Pontiac,Firebird,Overhead Camshaft,Manual,Black,43000,Hardtop,Pasco,0,2023,3,1,Alto
+C_CND_011639,2023-03-04,Male,473000,Progressive Shippers Cooperative Association No,Dodge,Durango,Double Overhead Camshaft,Auto,Black,19000,SUV,Janesville,0,2023,3,1,Bajo
+C_CND_011733,2023-03-08,Male,560000,Capitol KIA,Volvo,S70,Double Overhead Camshaft,Auto,Pale White,20000,Hardtop,Greenville,0,2023,3,1,Bajo
+C_CND_011744,2023-03-08,Male,13500,Ryder Truck Rental and Leasing,Oldsmobile,Bravada,Double Overhead Camshaft,Auto,Black,26000,Hatchback,Middletown,1,2023,3,1,Medio
+C_CND_011829,2023-03-10,Male,862000,Nebo Chevrolet,Chrysler,LHS,Overhead Camshaft,Manual,Pale White,41001,Hatchback,Greenville,0,2023,3,1,Alto
+C_CND_011831,2023-03-11,Male,13500,Pars Auto Sales,Chrysler,300M,Double Overhead Camshaft,Auto,Red,16001,SUV,Greenville,1,2023,3,1,Bajo
+C_CND_011880,2023-03-12,Male,1765000,Diehl Motor CO Inc,Acura,TL,Double Overhead Camshaft,Auto,Red,24500,Hatchback,Middletown,0,2023,3,1,Medio
+C_CND_011892,2023-03-12,Male,1275000,Suburban Ford,Infiniti,I30,Double Overhead Camshaft,Auto,Red,31500,Hardtop,Janesville,0,2023,3,1,Alto
+C_CND_011986,2023-03-13,Female,520000,Ryder Truck Rental and Leasing,Saturn,LW,Overhead Camshaft,Manual,Red,49001,Hatchback,Scottsdale,0,2023,3,1,Alto
+C_CND_011941,2023-03-13,Male,13500,Hatfield Volkswagen,Ford,Explorer,Double Overhead Camshaft,Auto,Red,41000,Hatchback,Pasco,1,2023,3,1,Alto
+C_CND_011963,2023-03-13,Female,650000,Saab-Belle Dodge,Mitsubishi,Eclipse,Double Overhead Camshaft,Auto,Black,27001,Hardtop,Aurora,0,2023,3,1,Medio
+C_CND_011975,2023-03-13,Female,2215000,Suburban Ford,Porsche,Carrera Cabrio,Double Overhead Camshaft,Auto,Pale White,32500,Passenger,Janesville,0,2023,3,1,Alto
+C_CND_012031,2023-03-14,Female,13500,Buddy Storbeck's Diesel Service Inc,Dodge,Dakota,Double Overhead Camshaft,Auto,Pale White,21000,Sedan,Middletown,1,2023,3,1,Medio
+C_CND_012096,2023-03-17,Female,500000,Scrivener Performance Engineering,Chevrolet,Malibu,Overhead Camshaft,Manual,Red,82000,SUV,Greenville,0,2023,3,1,Alto
+C_CND_012115,2023-03-18,Male,1420000,New Castle Ford Lincoln Mercury,Pontiac,Sunfire,Overhead Camshaft,Manual,Red,43000,Sedan,Aurora,0,2023,3,1,Alto
+C_CND_012164,2023-03-20,Male,13500,Tri-State Mack Inc,Chevrolet,Camaro,Double Overhead Camshaft,Auto,Red,24001,Sedan,Scottsdale,1,2023,3,1,Medio
+C_CND_012170,2023-03-20,Male,3280000,U-Haul CO,Lexus,LS400,Double Overhead Camshaft,Auto,Black,22001,Sedan,Austin,0,2023,3,1,Medio
+C_CND_012266,2023-03-26,Male,723000,Scrivener Performance Engineering,Plymouth,Prowler,Overhead Camshaft,Manual,Pale White,16001,Hatchback,Scottsdale,0,2023,3,1,Bajo
+C_CND_012317,2023-03-29,Male,13500,Rabun Used Car Sales,Volkswagen,Passat,Overhead Camshaft,Manual,Red,20000,Hatchback,Scottsdale,1,2023,3,1,Bajo
+C_CND_012519,2023-04-05,Male,13500,Buddy Storbeck's Diesel Service Inc,Volvo,C70,Double Overhead Camshaft,Auto,Black,18001,Hatchback,Janesville,1,2023,4,2,Bajo
+C_CND_012599,2023-04-08,Female,580000,Suburban Ford,Lincoln,Town car,Double Overhead Camshaft,Auto,Pale White,18001,Hatchback,Janesville,0,2023,4,2,Bajo
+C_CND_012630,2023-04-08,Female,421500,Iceberg Rentals,Dodge,Durango,Overhead Camshaft,Manual,Red,31501,SUV,Scottsdale,0,2023,4,2,Alto
+C_CND_012593,2023-04-08,Female,449000,Rabun Used Car Sales,Chrysler,LHS,Double Overhead Camshaft,Auto,Black,17001,Hatchback,Scottsdale,0,2023,4,2,Bajo
+C_CND_012653,2023-04-09,Female,13500,Rabun Used Car Sales,Plymouth,Breeze,Double Overhead Camshaft,Auto,Pale White,22000,Hardtop,Scottsdale,1,2023,4,2,Medio
+C_CND_012913,2023-04-18,Male,1262000,Clay Johnson Auto Sales,Ford,F-Series,Overhead Camshaft,Manual,Red,13200,Passenger,Austin,0,2023,4,2,Bajo
+C_CND_012951,2023-04-19,Male,1100000,Rabun Used Car Sales,Ford,Taurus,Double Overhead Camshaft,Auto,Black,12000,SUV,Scottsdale,0,2023,4,2,Bajo
+C_CND_012976,2023-04-19,Male,655000,Saab-Belle Dodge,Acura,TL,Double Overhead Camshaft,Auto,Black,28000,Hatchback,Aurora,0,2023,4,2,Medio
+C_CND_012956,2023-04-19,Male,1880000,Diehl Motor CO Inc,BMW,328i,Double Overhead Camshaft,Auto,Black,16000,Sedan,Middletown,0,2023,4,2,Bajo
+C_CND_013087,2023-04-22,Male,13500,Scrivener Performance Engineering,Buick,Park Avenue,Overhead Camshaft,Manual,Black,29001,Hatchback,Scottsdale,1,2023,4,2,Alto
+C_CND_013165,2023-04-25,Female,711000,Nebo Chevrolet,Volkswagen,Jetta,Double Overhead Camshaft,Auto,Pale White,22000,Passenger,Middletown,0,2023,4,2,Medio
+C_CND_013214,2023-04-30,Female,690000,Clay Johnson Auto Sales,Mercedes-B,C-Class,Overhead Camshaft,Manual,Pale White,17000,Hatchback,Austin,0,2023,4,2,Bajo
+C_CND_013208,2023-04-30,Male,717000,Tri-State Mack Inc,Lexus,LX470,Double Overhead Camshaft,Auto,Black,22000,SUV,Scottsdale,0,2023,4,2,Medio
+C_CND_013233,2023-05-01,Female,2100000,Chrysler of Tri-Cities,Chevrolet,Prizm,Double Overhead Camshaft,Auto,Black,23000,Hardtop,Pasco,0,2023,5,2,Medio
+C_CND_013291,2023-05-02,Male,13500,Race Car Help,Dodge,Durango,Overhead Camshaft,Manual,Pale White,27000,SUV,Austin,1,2023,5,2,Medio
+C_CND_013319,2023-05-03,Male,13500,Chrysler of Tri-Cities,Nissan,Maxima,Overhead Camshaft,Manual,Pale White,54001,Sedan,Pasco,1,2023,5,2,Alto
+C_CND_013377,2023-05-05,Male,13500,Scrivener Performance Engineering,Lexus,LS400,Double Overhead Camshaft,Auto,Pale White,27000,Sedan,Greenville,1,2023,5,2,Medio
+C_CND_013447,2023-05-06,Female,720000,Ryder Truck Rental and Leasing,Volvo,S40,Overhead Camshaft,Manual,Red,17001,Sedan,Scottsdale,0,2023,5,2,Bajo
+C_CND_013468,2023-05-07,Male,13500,Motor Vehicle Branch Office,Dodge,Ram Pickup,Overhead Camshaft,Manual,Black,19001,Hardtop,Austin,1,2023,5,2,Bajo
+C_CND_013474,2023-05-07,Male,330000,Rabun Used Car Sales,Volkswagen,Jetta,Double Overhead Camshaft,Auto,Red,69000,Passenger,Scottsdale,0,2023,5,2,Alto
+C_CND_013528,2023-05-08,Female,13500,Star Enterprises Inc,Saturn,LW,Overhead Camshaft,Manual,Red,49000,Hatchback,Pasco,1,2023,5,2,Alto
+C_CND_013633,2023-05-12,Female,13500,Nebo Chevrolet,Mercedes-B,E-Class,Double Overhead Camshaft,Auto,Pale White,31000,Sedan,Middletown,1,2023,5,2,Alto
+C_CND_013670,2023-05-14,Male,310000,Ryder Truck Rental and Leasing,Dodge,Ram Pickup,Overhead Camshaft,Manual,Black,19000,Hardtop,Pasco,0,2023,5,2,Bajo
+C_CND_013744,2023-05-16,Male,13500,Pars Auto Sales,Acura,TL,Double Overhead Camshaft,Auto,Red,16001,Hatchback,Janesville,1,2023,5,2,Bajo
+C_CND_013809,2023-05-19,Male,1200000,Saab-Belle Dodge,Chrysler,Concorde,Double Overhead Camshaft,Auto,Pale White,46000,Hardtop,Middletown,0,2023,5,2,Alto
+C_CND_013903,2023-05-21,Male,1640000,Gartner Buick Hyundai Saab,Chevrolet,Monte Carlo,Overhead Camshaft,Manual,Red,17001,Hatchback,Janesville,0,2023,5,2,Bajo
+C_CND_013871,2023-05-21,Female,748000,Ryder Truck Rental and Leasing,Honda,CR-V,Double Overhead Camshaft,Auto,Pale White,22001,SUV,Middletown,0,2023,5,2,Medio
+C_CND_013926,2023-05-22,Male,875500,Tri-State Mack Inc,Hyundai,Accent,Overhead Camshaft,Manual,Black,18500,Hatchback,Scottsdale,0,2023,5,2,Bajo
+C_CND_014033,2023-05-26,Male,13500,Capitol KIA,Volkswagen,Passat,Double Overhead Camshaft,Auto,Pale White,32000,Hatchback,Greenville,1,2023,5,2,Alto
+C_CND_014163,2023-05-28,Male,2160000,Hatfield Volkswagen,Chevrolet,Corvette,Double Overhead Camshaft,Auto,Pale White,46000,SUV,Pasco,0,2023,5,2,Alto
+C_CND_014170,2023-05-28,Male,720000,Chrysler Plymouth,Mercedes-B,SL-Class,Overhead Camshaft,Manual,Black,38000,Hardtop,Janesville,0,2023,5,2,Alto
+C_CND_014278,2023-05-30,Male,13500,Chrysler Plymouth,Plymouth,Breeze,Double Overhead Camshaft,Auto,Red,39000,Hardtop,Middletown,1,2023,5,2,Alto
+C_CND_014291,2023-05-30,Male,13500,Star Enterprises Inc,Saturn,LS,Overhead Camshaft,Manual,Pale White,14000,Sedan,Pasco,1,2023,5,2,Bajo
+C_CND_014253,2023-05-30,Male,1810000,Pitre Buick-Pontiac-Gmc of Scottsdale,Volkswagen,GTI,Overhead Camshaft,Manual,Black,25000,SUV,Pasco,0,2023,5,2,Medio
+C_CND_014331,2023-05-30,Female,540000,New Castle Ford Lincoln Mercury,BMW,528i,Double Overhead Camshaft,Auto,Black,31000,SUV,Pasco,0,2023,5,2,Alto
+C_CND_014213,2023-05-30,Male,570000,Suburban Ford,Jeep,Cherokee,Double Overhead Camshaft,Auto,Red,14001,Sedan,Janesville,0,2023,5,2,Bajo
+C_CND_014379,2023-06-02,Male,1650000,Nebo Chevrolet,Chevrolet,Cavalier,Overhead Camshaft,Manual,Pale White,14000,SUV,Middletown,0,2023,6,2,Bajo
+C_CND_014465,2023-06-05,Male,920000,Pars Auto Sales,Chrysler,LHS,Double Overhead Camshaft,Auto,Black,26000,Hatchback,Greenville,0,2023,6,2,Medio
+C_CND_014490,2023-06-05,Female,868000,McKinney Dodge Chrysler Jeep,Lexus,LS400,Double Overhead Camshaft,Auto,Pale White,18000,Sedan,Middletown,0,2023,6,2,Bajo
+C_CND_014521,2023-06-06,Male,1251000,Ryder Truck Rental and Leasing,Dodge,Viper,Double Overhead Camshaft,Auto,Pale White,23100,SUV,Middletown,0,2023,6,2,Medio
+C_CND_014494,2023-06-06,Male,13500,Classic Chevy,Buick,Regal,Double Overhead Camshaft,Auto,Pale White,46001,Passenger,Scottsdale,1,2023,6,2,Alto
+C_CND_014652,2023-06-11,Male,1420000,Suburban Ford,Buick,Park Avenue,Double Overhead Camshaft,Auto,Pale White,62000,Hatchback,Janesville,0,2023,6,2,Alto
+C_CND_014663,2023-06-11,Male,1275000,Suburban Ford,Mercedes-B,M-Class,Overhead Camshaft,Manual,Pale White,41500,Hardtop,Janesville,0,2023,6,2,Alto
+C_CND_014789,2023-06-12,Male,1080000,Race Car Help,Subaru,Forester,Overhead Camshaft,Manual,Pale White,17000,Hardtop,Austin,0,2023,6,2,Bajo
+C_CND_014724,2023-06-12,Female,940000,C & M Motors Inc,Jeep,Cherokee,Double Overhead Camshaft,Auto,Pale White,14000,Sedan,Aurora,0,2023,6,2,Bajo
+C_CND_014841,2023-06-14,Female,600000,Star Enterprises Inc,Honda,CR-V,Double Overhead Camshaft,Auto,Black,31001,SUV,Pasco,0,2023,6,2,Alto
+C_CND_014870,2023-06-14,Female,575000,Suburban Ford,Chrysler,LHS,Overhead Camshaft,Manual,Black,51000,Hatchback,Pasco,0,2023,6,2,Alto
+C_CND_014909,2023-06-17,Male,600000,Scrivener Performance Engineering,Lexus,LS400,Double Overhead Camshaft,Auto,Black,39000,Sedan,Greenville,0,2023,6,2,Alto
+C_CND_014962,2023-06-17,Male,1410000,Hatfield Volkswagen,Subaru,Forester,Overhead Camshaft,Manual,Pale White,17000,Hardtop,Pasco,0,2023,6,2,Bajo
+C_CND_015055,2023-06-20,Male,13500,Star Enterprises Inc,Mercury,Villager,Overhead Camshaft,Manual,Pale White,14000,Passenger,Pasco,1,2023,6,2,Bajo
+C_CND_015167,2023-06-23,Female,675500,Rabun Used Car Sales,Honda,Passport,Overhead Camshaft,Manual,Pale White,27500,Hardtop,Scottsdale,0,2023,6,2,Medio
+C_CND_015196,2023-06-24,Male,855333,Tri-State Mack Inc,Mercedes-B,SL-Class,Overhead Camshaft,Manual,Black,38330,Hardtop,Austin,0,2023,6,2,Alto
+C_CND_015299,2023-06-26,Male,812000,Chrysler Plymouth,Toyota,Sienna,Overhead Camshaft,Manual,Black,16001,Passenger,Pasco,0,2023,6,2,Bajo
+C_CND_015262,2023-06-26,Male,700000,Progressive Shippers Cooperative Association No,Plymouth,Voyager,Overhead Camshaft,Manual,Pale White,20000,Passenger,Janesville,0,2023,6,2,Bajo
+C_CND_015279,2023-06-26,Female,370000,Saab-Belle Dodge,Mercedes-B,CL500,Overhead Camshaft,Manual,Pale White,22000,SUV,Aurora,0,2023,6,2,Medio
+C_CND_015402,2023-07-01,Male,1310000,Hatfield Volkswagen,Mercury,Cougar,Double Overhead Camshaft,Auto,Black,26000,Hatchback,Pasco,0,2023,7,3,Medio
+C_CND_015453,2023-07-03,Male,900000,Suburban Ford,Dodge,Caravan,Double Overhead Camshaft,Auto,Pale White,19001,Hardtop,Janesville,0,2023,7,3,Bajo
+C_CND_015648,2023-07-08,Male,731000,U-Haul CO,Mercedes-B,M-Class,Double Overhead Camshaft,Auto,Black,18000,Hardtop,Austin,0,2023,7,3,Bajo
+C_CND_015629,2023-07-08,Male,390000,Rabun Used Car Sales,Buick,Regal,Overhead Camshaft,Manual,Pale White,43000,Passenger,Scottsdale,0,2023,7,3,Alto
+C_CND_015652,2023-07-08,Female,785000,Progressive Shippers Cooperative Association No,Dodge,Stratus,Double Overhead Camshaft,Auto,Pale White,31000,Hatchback,Greenville,0,2023,7,3,Alto
+C_CND_015736,2023-07-14,Female,13500,Star Enterprises Inc,Volkswagen,Beetle,Double Overhead Camshaft,Auto,Pale White,45000,Hardtop,Pasco,1,2023,7,3,Alto
+C_CND_015723,2023-07-14,Male,600000,C & M Motors Inc,Volvo,S40,Overhead Camshaft,Manual,Pale White,22000,Sedan,Aurora,0,2023,7,3,Medio
+C_CND_015768,2023-07-14,Male,695000,Capitol KIA,Chrysler,Sebring Coupe,Overhead Camshaft,Manual,Black,12001,Sedan,Middletown,0,2023,7,3,Bajo
+C_CND_015759,2023-07-14,Female,13500,Race Car Help,Mercury,Cougar,Overhead Camshaft,Manual,Pale White,22000,Hatchback,Austin,1,2023,7,3,Medio
+C_CND_015825,2023-07-16,Male,603000,Chrysler of Tri-Cities,Mercury,Mystique,Double Overhead Camshaft,Auto,Pale White,29000,Passenger,Pasco,0,2023,7,3,Medio
+C_CND_015808,2023-07-16,Male,1487000,Classic Chevy,Honda,Accord,Double Overhead Camshaft,Auto,Pale White,21701,Sedan,Scottsdale,0,2023,7,3,Medio
+C_CND_015802,2023-07-16,Male,1750000,Tri-State Mack Inc,Acura,TL,Overhead Camshaft,Manual,Pale White,14001,Hatchback,Scottsdale,0,2023,7,3,Bajo
+C_CND_015842,2023-07-16,Female,1901000,U-Haul CO,Mitsubishi,Montero,Overhead Camshaft,Manual,Black,16101,SUV,Austin,0,2023,7,3,Bajo
+C_CND_015910,2023-07-17,Male,1350000,Race Car Help,Acura,RL,Overhead Camshaft,Manual,Pale White,34000,SUV,Austin,0,2023,7,3,Alto
+C_CND_016000,2023-07-18,Male,1051000,Scrivener Performance Engineering,Mitsubishi,Diamante,Overhead Camshaft,Manual,Pale White,12101,Hatchback,Janesville,0,2023,7,3,Bajo
+C_CND_015997,2023-07-18,Male,13500,Rabun Used Car Sales,Dodge,Durango,Double Overhead Camshaft,Auto,Black,19001,SUV,Middletown,1,2023,7,3,Bajo
+C_CND_016037,2023-07-19,Male,1730000,Classic Chevy,Volvo,S40,Overhead Camshaft,Manual,Pale White,17000,Sedan,Scottsdale,0,2023,7,3,Bajo
+C_CND_016013,2023-07-19,Male,1100000,Enterprise Rent A Car,Lexus,LS400,Overhead Camshaft,Manual,Black,69001,Sedan,Aurora,0,2023,7,3,Alto
+C_CND_016020,2023-07-19,Male,865000,Saab-Belle Dodge,Oldsmobile,Silhouette,Overhead Camshaft,Manual,Pale White,34000,Sedan,Aurora,0,2023,7,3,Alto
+C_CND_016066,2023-07-21,Male,920000,Ryder Truck Rental and Leasing,Mercury,Sable,Double Overhead Camshaft,Auto,Pale White,39000,Sedan,Middletown,0,2023,7,3,Alto
+C_CND_016114,2023-07-22,Male,635000,Capitol KIA,Mitsubishi,3000GT,Double Overhead Camshaft,Auto,Pale White,19000,Sedan,Greenville,0,2023,7,3,Bajo
+C_CND_016166,2023-07-23,Male,1302000,Enterprise Rent A Car,Porsche,Carrera Cabrio,Double Overhead Camshaft,Auto,Pale White,32200,Passenger,Aurora,0,2023,7,3,Alto
+C_CND_016160,2023-07-23,Male,710000,Race Car Help,Chrysler,Concorde,Double Overhead Camshaft,Auto,Black,12001,SUV,Austin,0,2023,7,3,Bajo
+C_CND_016292,2023-07-25,Male,13500,Nebo Chevrolet,Mercury,Mountaineer,Double Overhead Camshaft,Auto,Pale White,21000,SUV,Middletown,1,2023,7,3,Medio
+C_CND_016280,2023-07-25,Male,1322000,Gartner Buick Hyundai Saab,Audi,A6,Double Overhead Camshaft,Auto,Black,14200,SUV,Greenville,0,2023,7,3,Bajo
+C_CND_016346,2023-07-28,Male,840000,Rabun Used Car Sales,Honda,Accord,Double Overhead Camshaft,Auto,Pale White,19000,Sedan,Austin,0,2023,7,3,Bajo
+C_CND_016352,2023-07-29,Female,585000,U-Haul CO,Volvo,S70,Overhead Camshaft,Manual,Pale White,24000,SUV,Austin,0,2023,7,3,Medio
+C_CND_016438,2023-08-02,Male,2090000,Nebo Chevrolet,Mitsubishi,Diamante,Double Overhead Camshaft,Auto,Pale White,21001,Hatchback,Middletown,0,2023,8,3,Medio
+C_CND_016477,2023-08-04,Male,597000,Enterprise Rent A Car,Buick,Century,Double Overhead Camshaft,Auto,Pale White,17000,SUV,Aurora,0,2023,8,3,Bajo
+C_CND_016607,2023-08-11,Male,1285000,Star Enterprises Inc,Volkswagen,Golf,Double Overhead Camshaft,Auto,Pale White,35500,SUV,Pasco,0,2023,8,3,Alto
+C_CND_016638,2023-08-12,Male,336000,Classic Chevy,Chevrolet,Metro,Double Overhead Camshaft,Auto,Pale White,19000,Passenger,Scottsdale,0,2023,8,3,Bajo
+C_CND_016619,2023-08-12,Female,350000,Ryder Truck Rental and Leasing,Dodge,Ram Pickup,Overhead Camshaft,Manual,Black,19000,SUV,Middletown,0,2023,8,3,Bajo
+C_CND_016653,2023-08-13,Female,1005000,Pitre Buick-Pontiac-Gmc of Scottsdale,Mitsubishi,Diamante,Double Overhead Camshaft,Auto,Black,18501,Hatchback,Pasco,0,2023,8,3,Bajo
+C_CND_016663,2023-08-13,Male,1700000,Diehl Motor CO Inc,Mitsubishi,Eclipse,Double Overhead Camshaft,Auto,Black,27000,SUV,Austin,0,2023,8,3,Medio
+C_CND_016674,2023-08-13,Male,660000,Tri-State Mack Inc,Ford,Focus,Overhead Camshaft,Manual,Red,17000,SUV,Austin,0,2023,8,3,Bajo
+C_CND_016726,2023-08-14,Male,1220000,Scrivener Performance Engineering,Dodge,Ram Wagon,Double Overhead Camshaft,Auto,Black,22001,Passenger,Aurora,0,2023,8,3,Medio
+C_CND_016811,2023-08-18,Female,13500,U-Haul CO,Cadillac,Eldorado,Double Overhead Camshaft,Auto,Red,31000,Passenger,Austin,1,2023,8,3,Alto
+C_CND_016824,2023-08-18,Female,13500,Iceberg Rentals,Porsche,Carrera Coupe,Overhead Camshaft,Manual,Pale White,26000,SUV,Janesville,1,2023,8,3,Medio
+C_CND_016803,2023-08-18,Male,680000,Rabun Used Car Sales,Chevrolet,Prizm,Double Overhead Camshaft,Auto,Pale White,42000,SUV,Scottsdale,0,2023,8,3,Alto
+C_CND_016837,2023-08-19,Male,328000,Pitre Buick-Pontiac-Gmc of Scottsdale,Dodge,Ram Van,Double Overhead Camshaft,Auto,Red,31000,Hatchback,Pasco,0,2023,8,3,Alto
+C_CND_016942,2023-08-22,Male,347000,Suburban Ford,Chrysler,Concorde,Overhead Camshaft,Manual,Pale White,28000,SUV,Janesville,0,2023,8,3,Medio
+C_CND_016993,2023-08-23,Male,1320000,Motor Vehicle Branch Office,Chrysler,300M,Double Overhead Camshaft,Auto,Red,16000,SUV,Austin,0,2023,8,3,Bajo
+C_CND_017150,2023-08-27,Male,644000,Nebo Chevrolet,Mitsubishi,Montero Sport,Double Overhead Camshaft,Auto,Red,39001,SUV,Austin,0,2023,8,3,Alto
+C_CND_017131,2023-08-27,Male,1225000,Suburban Ford,Oldsmobile,Bravada,Overhead Camshaft,Manual,Black,36501,Hatchback,Janesville,0,2023,8,3,Alto
+C_CND_017137,2023-08-27,Male,1510000,Chrysler of Tri-Cities,Jeep,Cherokee,Double Overhead Camshaft,Auto,Pale White,36001,Sedan,Pasco,0,2023,8,3,Alto
+C_CND_017186,2023-08-27,Male,470000,Rabun Used Car Sales,Mercury,Mountaineer,Double Overhead Camshaft,Auto,Pale White,21000,SUV,Austin,0,2023,8,3,Medio
+C_CND_017229,2023-08-29,Female,710000,Rabun Used Car Sales,Nissan,Frontier,Overhead Camshaft,Manual,Black,53001,Hatchback,Scottsdale,0,2023,8,3,Alto
+C_CND_017295,2023-08-30,Male,1040000,Star Enterprises Inc,Pontiac,Grand Prix,Double Overhead Camshaft,Auto,Pale White,19000,Passenger,Pasco,0,2023,8,3,Bajo
+C_CND_017308,2023-08-31,Female,622250,Tri-State Mack Inc,Jeep,Grand Cherokee,Overhead Camshaft,Manual,Pale White,15250,SUV,Scottsdale,0,2023,8,3,Bajo
+C_CND_017403,2023-09-01,Male,1300000,Capitol KIA,Acura,RL,Double Overhead Camshaft,Auto,Black,24001,SUV,Aurora,0,2023,9,3,Medio
+C_CND_017368,2023-09-01,Male,643000,Pars Auto Sales,Cadillac,Eldorado,Overhead Camshaft,Manual,Black,85000,Passenger,Greenville,0,2023,9,3,Alto
+C_CND_017342,2023-09-01,Male,452000,Classic Chevy,Dodge,Ram Van,Double Overhead Camshaft,Auto,Pale White,31001,Hatchback,Scottsdale,0,2023,9,3,Alto
+C_CND_017323,2023-09-01,Male,1585000,Diehl Motor CO Inc,Oldsmobile,Bravada,Overhead Camshaft,Manual,Black,36501,Hatchback,Middletown,0,2023,9,3,Alto
+C_CND_017480,2023-09-02,Male,470000,Gartner Buick Hyundai Saab,Volkswagen,Beetle,Double Overhead Camshaft,Auto,Pale White,45000,SUV,Greenville,0,2023,9,3,Alto
+C_CND_017466,2023-09-02,Male,621000,Saab-Belle Dodge,Cadillac,Escalade,Overhead Camshaft,Manual,Black,34000,Sedan,Aurora,0,2023,9,3,Alto
+C_CND_017435,2023-09-02,Female,600000,C & M Motors Inc,Nissan,Quest,Double Overhead Camshaft,Auto,Pale White,32001,SUV,Aurora,0,2023,9,3,Alto
+C_CND_017533,2023-09-02,Male,470000,U-Haul CO,Honda,Accord,Overhead Camshaft,Manual,Black,43000,Sedan,Austin,0,2023,9,3,Alto
+C_CND_017602,2023-09-03,Female,545000,Diehl Motor CO Inc,Cadillac,DeVille,Double Overhead Camshaft,Auto,Pale White,69000,SUV,Austin,0,2023,9,3,Alto
+C_CND_017674,2023-09-04,Female,590000,U-Haul CO,Oldsmobile,Aurora,Overhead Camshaft,Manual,Pale White,34001,Passenger,Austin,0,2023,9,3,Alto
+C_CND_017698,2023-09-05,Male,522500,Tri-State Mack Inc,Chrysler,300M,Double Overhead Camshaft,Auto,Pale White,16501,SUV,Scottsdale,0,2023,9,3,Bajo
+C_CND_017702,2023-09-05,Male,13500,Capitol KIA,Audi,A6,Double Overhead Camshaft,Auto,Black,27001,SUV,Greenville,1,2023,9,3,Medio
+C_CND_017912,2023-09-06,Male,1601000,Scrivener Performance Engineering,Subaru,Forester,Double Overhead Camshaft,Auto,Black,22100,SUV,Greenville,0,2023,9,3,Medio
+C_CND_017917,2023-09-06,Male,528500,Buddy Storbeck's Diesel Service Inc,Audi,A6,Double Overhead Camshaft,Auto,Pale White,42500,SUV,Middletown,0,2023,9,3,Alto
+C_CND_017979,2023-09-08,Male,13500,Race Car Help,Toyota,Tacoma,Overhead Camshaft,Manual,Red,82000,SUV,Janesville,1,2023,9,3,Alto
+C_CND_018089,2023-09-10,Male,13500,Scrivener Performance Engineering,Mitsubishi,Diamante,Overhead Camshaft,Manual,Black,49000,Hatchback,Greenville,1,2023,9,3,Alto
+C_CND_018077,2023-09-10,Male,613000,Chrysler of Tri-Cities,Volvo,S40,Overhead Camshaft,Manual,Black,36000,Sedan,Pasco,0,2023,9,3,Alto
+C_CND_018127,2023-09-11,Male,1005000,Gartner Buick Hyundai Saab,Saturn,LW,Overhead Camshaft,Manual,Red,49500,Hatchback,Greenville,0,2023,9,3,Alto
+C_CND_018118,2023-09-11,Male,345000,Buddy Storbeck's Diesel Service Inc,BMW,328i,Double Overhead Camshaft,Auto,Black,18000,Sedan,Middletown,0,2023,9,3,Bajo
+C_CND_018171,2023-09-11,Male,633000,Classic Chevy,Dodge,Caravan,Double Overhead Camshaft,Auto,Black,23000,SUV,Austin,0,2023,9,3,Medio
+C_CND_018219,2023-09-12,Male,1689000,Suburban Ford,Chevrolet,Impala,Overhead Camshaft,Manual,Red,22900,Hatchback,Janesville,0,2023,9,3,Medio
+C_CND_018226,2023-09-12,Male,2455000,Race Car Help,Chevrolet,Prizm,Double Overhead Camshaft,Auto,Red,15500,SUV,Middletown,0,2023,9,3,Bajo
+C_CND_018309,2023-09-13,Female,692000,Saab-Belle Dodge,Ford,Expedition,Double Overhead Camshaft,Auto,Black,41001,SUV,Scottsdale,0,2023,9,3,Alto
+C_CND_018320,2023-09-14,Male,13500,Buddy Storbeck's Diesel Service Inc,Toyota,RAV4,Overhead Camshaft,Manual,Pale White,22000,Hatchback,Middletown,1,2023,9,3,Medio
+C_CND_018432,2023-09-17,Male,990000,Scrivener Performance Engineering,Nissan,Altima,Double Overhead Camshaft,Auto,Red,21001,Hatchback,Greenville,0,2023,9,3,Medio
+C_CND_018428,2023-09-17,Male,1020000,Rabun Used Car Sales,Toyota,4Runner,Overhead Camshaft,Manual,Black,25001,Sedan,Scottsdale,0,2023,9,3,Medio
+C_CND_018443,2023-09-17,Male,270000,Ryder Truck Rental and Leasing,Volkswagen,Jetta,Double Overhead Camshaft,Auto,Black,22000,Passenger,Austin,0,2023,9,3,Medio
+C_CND_018490,2023-09-18,Male,820000,Diehl Motor CO Inc,Saab,3-Sep,Double Overhead Camshaft,Auto,Red,69000,Sedan,Middletown,0,2023,9,3,Alto
+C_CND_018457,2023-09-18,Male,484000,U-Haul CO,Chevrolet,Lumina,Overhead Camshaft,Manual,Black,42001,Passenger,Austin,0,2023,9,3,Alto
+C_CND_018576,2023-09-19,Female,13500,Diehl Motor CO Inc,Cadillac,DeVille,Double Overhead Camshaft,Auto,Red,22001,SUV,Middletown,1,2023,9,3,Medio
+C_CND_018653,2023-09-20,Female,1101000,Motor Vehicle Branch Office,Volvo,S40,Double Overhead Camshaft,Auto,Black,26100,Sedan,Pasco,0,2023,9,3,Medio
+C_CND_018630,2023-09-20,Female,2480000,Ryder Truck Rental and Leasing,Lincoln,Continental,Overhead Camshaft,Manual,Red,82000,Passenger,Middletown,0,2023,9,3,Alto
+C_CND_018680,2023-09-22,Male,625000,Buddy Storbeck's Diesel Service Inc,Hyundai,Elantra,Overhead Camshaft,Manual,Pale White,26000,Sedan,Middletown,0,2023,9,3,Medio
+C_CND_018774,2023-09-23,Male,13500,Rabun Used Car Sales,BMW,328i,Overhead Camshaft,Manual,Black,69000,Sedan,Scottsdale,1,2023,9,3,Alto
+C_CND_018810,2023-09-24,Male,1000000,Suburban Ford,Oldsmobile,Cutlass,Overhead Camshaft,Manual,Pale White,41000,Sedan,Janesville,0,2023,9,3,Alto
+C_CND_018901,2023-09-25,Male,1380000,Chrysler Plymouth,Dodge,Durango,Overhead Camshaft,Manual,Black,22000,SUV,Janesville,0,2023,9,3,Medio
+C_CND_018861,2023-09-25,Female,505000,Buddy Storbeck's Diesel Service Inc,Hyundai,Accent,Overhead Camshaft,Manual,Black,18000,Hatchback,Middletown,0,2023,9,3,Bajo
+C_CND_018913,2023-09-25,Male,750000,Chrysler Plymouth,Dodge,Ram Pickup,Overhead Camshaft,Manual,Pale White,20000,Hardtop,Janesville,0,2023,9,3,Bajo
+C_CND_019012,2023-09-26,Female,637500,C & M Motors Inc,Mercedes-B,SLK230,Double Overhead Camshaft,Auto,Black,33500,Hatchback,Aurora,0,2023,9,3,Alto
+C_CND_019128,2023-09-29,Male,13500,Ryder Truck Rental and Leasing,Dodge,Caravan,Double Overhead Camshaft,Auto,Black,23001,Hardtop,Aurora,1,2023,9,3,Medio
+C_CND_019194,2023-10-02,Male,1630100,Ryder Truck Rental and Leasing,Chrysler,Sebring Coupe,Double Overhead Camshaft,Auto,Red,22010,Sedan,Middletown,0,2023,10,4,Medio
+C_CND_019246,2023-10-03,Male,1900000,Progressive Shippers Cooperative Association No,Porsche,Carrera Coupe,Overhead Camshaft,Manual,Black,16001,Hardtop,Middletown,0,2023,10,4,Bajo
+C_CND_019403,2023-10-10,Male,335000,Suburban Ford,Dodge,Ram Pickup,Double Overhead Camshaft,Auto,Pale White,45000,Hardtop,Janesville,0,2023,10,4,Alto
+C_CND_019419,2023-10-10,Female,316000,Race Car Help,Chrysler,300M,Double Overhead Camshaft,Auto,Black,26000,SUV,Pasco,0,2023,10,4,Medio
+C_CND_019591,2023-10-15,Female,13500,Enterprise Rent A Car,Jeep,Wrangler,Double Overhead Camshaft,Auto,Red,19001,Hatchback,Aurora,1,2023,10,4,Bajo
+C_CND_019621,2023-10-15,Male,1000000,Progressive Shippers Cooperative Association No,Lexus,LS400,Double Overhead Camshaft,Auto,Pale White,46001,Sedan,Janesville,0,2023,10,4,Alto
+C_CND_019633,2023-10-15,Female,1235000,Progressive Shippers Cooperative Association No,Ford,Crown Victoria,Double Overhead Camshaft,Auto,Pale White,29500,Passenger,Pasco,0,2023,10,4,Alto
+C_CND_019703,2023-10-20,Male,820000,McKinney Dodge Chrysler Jeep,Volvo,S70,Double Overhead Camshaft,Auto,Pale White,20000,Hardtop,Pasco,0,2023,10,4,Bajo
+C_CND_019828,2023-10-21,Male,860000,Ryder Truck Rental and Leasing,Chevrolet,Cavalier,Overhead Camshaft,Manual,Pale White,20000,SUV,Aurora,0,2023,10,4,Bajo
+C_CND_019776,2023-10-21,Male,13500,U-Haul CO,Mercedes-B,S-Class,Double Overhead Camshaft,Auto,Black,39001,SUV,Austin,1,2023,10,4,Alto
+C_CND_020049,2023-10-28,Male,743000,Enterprise Rent A Car,Acura,Integra,Double Overhead Camshaft,Auto,Black,45000,Passenger,Austin,0,2023,10,4,Alto
+C_CND_020060,2023-10-29,Male,652500,Hatfield Volkswagen,Volkswagen,GTI,Double Overhead Camshaft,Auto,Pale White,25501,SUV,Pasco,0,2023,10,4,Medio
+C_CND_020085,2023-10-30,Male,415000,Buddy Storbeck's Diesel Service Inc,Chrysler,300M,Double Overhead Camshaft,Auto,Black,26000,SUV,Middletown,0,2023,10,4,Medio
+C_CND_020088,2023-10-30,Male,522500,Hatfield Volkswagen,Hyundai,Sonata,Overhead Camshaft,Manual,Pale White,21500,SUV,Pasco,0,2023,10,4,Medio
+C_CND_020079,2023-10-30,Male,606000,Saab-Belle Dodge,BMW,528i,Overhead Camshaft,Manual,Pale White,14001,SUV,Aurora,0,2023,10,4,Bajo
+C_CND_020153,2023-11-01,Male,1250000,Saab-Belle Dodge,Dodge,Durango,Double Overhead Camshaft,Auto,Black,24000,SUV,Greenville,0,2023,11,4,Medio
+C_CND_020275,2023-11-03,Male,1352000,Race Car Help,Lincoln,Navigator,Double Overhead Camshaft,Auto,Black,19200,Sedan,Janesville,0,2023,11,4,Bajo
+C_CND_020216,2023-11-03,Male,1402000,Rabun Used Car Sales,Nissan,Pathfinder,Overhead Camshaft,Manual,Black,69200,Hardtop,Scottsdale,0,2023,11,4,Alto
+C_CND_020315,2023-11-04,Male,13500,Scrivener Performance Engineering,Mercury,Grand Marquis,Overhead Camshaft,Manual,Pale White,16000,SUV,Greenville,1,2023,11,4,Bajo
+C_CND_020392,2023-11-05,Male,1270100,Race Car Help,Oldsmobile,Bravada,Double Overhead Camshaft,Auto,Pale White,19011,Hatchback,Austin,0,2023,11,4,Bajo
+C_CND_020571,2023-11-07,Female,490000,New Castle Ford Lincoln Mercury,Mercedes-B,SL-Class,Overhead Camshaft,Manual,Pale White,26000,Hardtop,Aurora,0,2023,11,4,Medio
+C_CND_020524,2023-11-07,Male,13500,Hatfield Volkswagen,Mitsubishi,3000GT,Double Overhead Camshaft,Auto,Pale White,19001,Sedan,Pasco,1,2023,11,4,Bajo
+C_CND_020533,2023-11-07,Male,13500,Race Car Help,Mercedes-B,CLK Coupe,Double Overhead Camshaft,Auto,Pale White,22000,Sedan,Austin,1,2023,11,4,Medio
+C_CND_020581,2023-11-07,Male,700000,C & M Motors Inc,Honda,Odyssey,Overhead Camshaft,Manual,Pale White,27000,Passenger,Aurora,0,2023,11,4,Medio
+C_CND_020605,2023-11-08,Male,13500,Progressive Shippers Cooperative Association No,Cadillac,Eldorado,Overhead Camshaft,Manual,Black,29000,Passenger,Janesville,1,2023,11,4,Medio
+C_CND_020606,2023-11-08,Male,2750000,Rabun Used Car Sales,Volkswagen,Jetta,Double Overhead Camshaft,Auto,Black,22000,Passenger,Scottsdale,0,2023,11,4,Medio
+C_CND_020704,2023-11-10,Male,13500,Iceberg Rentals,Oldsmobile,Bravada,Overhead Camshaft,Manual,Black,36000,Hatchback,Janesville,1,2023,11,4,Alto
+C_CND_020630,2023-11-10,Female,642100,Progressive Shippers Cooperative Association No,Mercury,Villager,Overhead Camshaft,Manual,Pale White,14101,Passenger,Janesville,0,2023,11,4,Bajo
+C_CND_020770,2023-11-10,Female,13500,Progressive Shippers Cooperative Association No,Audi,A6,Double Overhead Camshaft,Auto,Pale White,42000,SUV,Janesville,1,2023,11,4,Alto
+C_CND_020771,2023-11-10,Male,13500,Rabun Used Car Sales,Volvo,C70,Double Overhead Camshaft,Auto,Black,12000,Hatchback,Scottsdale,1,2023,11,4,Bajo
+C_CND_020652,2023-11-10,Male,1385000,Diehl Motor CO Inc,Volkswagen,Cabrio,Double Overhead Camshaft,Auto,Black,16500,Sedan,Middletown,0,2023,11,4,Bajo
+C_CND_020641,2023-11-10,Female,648500,C & M Motors Inc,Plymouth,Voyager,Double Overhead Camshaft,Auto,Pale White,22501,Passenger,Aurora,0,2023,11,4,Medio
+C_CND_020622,2023-11-10,Male,13500,Race Car Help,Dodge,Ram Wagon,Double Overhead Camshaft,Auto,Black,22001,Passenger,Austin,1,2023,11,4,Medio
+C_CND_020839,2023-11-11,Male,1010800,Buddy Storbeck's Diesel Service Inc,Pontiac,Sunfire,Overhead Camshaft,Manual,Pale White,43080,Sedan,Middletown,0,2023,11,4,Alto
+C_CND_020857,2023-11-11,Male,1000000,Iceberg Rentals,Chevrolet,Metro,Double Overhead Camshaft,Auto,Black,31000,Passenger,Janesville,0,2023,11,4,Alto
+C_CND_020935,2023-11-12,Female,13500,Saab-Belle Dodge,Saturn,LW,Double Overhead Camshaft,Auto,Pale White,18000,Hatchback,Aurora,1,2023,11,4,Bajo
+C_CND_020939,2023-11-12,Male,845000,Tri-State Mack Inc,Volkswagen,Passat,Double Overhead Camshaft,Auto,Pale White,13000,Hatchback,Scottsdale,0,2023,11,4,Bajo
+C_CND_020943,2023-11-12,Male,1820000,Race Car Help,Oldsmobile,Silhouette,Double Overhead Camshaft,Auto,Black,60000,Sedan,Austin,0,2023,11,4,Alto
+C_CND_020893,2023-11-12,Male,2900000,U-Haul CO,Chevrolet,Impala,Overhead Camshaft,Manual,Pale White,22001,Hatchback,Austin,0,2023,11,4,Medio
+C_CND_021092,2023-11-14,Male,2350000,Suburban Ford,BMW,528i,Overhead Camshaft,Manual,Pale White,14001,SUV,Janesville,0,2023,11,4,Bajo
+C_CND_021109,2023-11-14,Male,13500,Scrivener Performance Engineering,Mitsubishi,Diamante,Double Overhead Camshaft,Auto,Pale White,21000,Hatchback,Middletown,1,2023,11,4,Medio
+C_CND_021091,2023-11-14,Male,13500,Star Enterprises Inc,Toyota,Corolla,Overhead Camshaft,Manual,Pale White,22001,Passenger,Pasco,1,2023,11,4,Medio
+C_CND_021122,2023-11-15,Male,2400000,Pitre Buick-Pontiac-Gmc of Scottsdale,Jeep,Wrangler,Double Overhead Camshaft,Auto,Pale White,13000,Hatchback,Pasco,0,2023,11,4,Bajo
+C_CND_021143,2023-11-16,Male,13500,Star Enterprises Inc,Subaru,Outback,Double Overhead Camshaft,Auto,Pale White,19000,SUV,Pasco,1,2023,11,4,Bajo
+C_CND_021224,2023-11-18,Male,875000,Chrysler of Tri-Cities,Nissan,Pathfinder,Overhead Camshaft,Manual,Black,69001,SUV,Austin,0,2023,11,4,Alto
+C_CND_021384,2023-11-20,Male,1010000,Scrivener Performance Engineering,Honda,Accord,Double Overhead Camshaft,Auto,Pale White,19000,Sedan,Greenville,0,2023,11,4,Bajo
+C_CND_021355,2023-11-20,Male,750000,McKinney Dodge Chrysler Jeep,Ford,Mustang,Double Overhead Camshaft,Auto,Pale White,22001,Hatchback,Scottsdale,0,2023,11,4,Medio
+C_CND_021418,2023-11-20,Female,706000,Saab-Belle Dodge,Nissan,Pathfinder,Double Overhead Camshaft,Auto,Pale White,31001,Hardtop,Janesville,0,2023,11,4,Alto
+C_CND_021513,2023-11-22,Female,13500,Clay Johnson Auto Sales,Mitsubishi,Montero Sport,Overhead Camshaft,Manual,Pale White,29000,Hardtop,Austin,1,2023,11,4,Medio
+C_CND_021771,2023-11-26,Male,291000,Nebo Chevrolet,Mitsubishi,Diamante,Overhead Camshaft,Manual,Black,22000,Hatchback,Middletown,0,2023,11,4,Medio
+C_CND_021794,2023-11-26,Male,13500,Capitol KIA,Mitsubishi,3000GT,Double Overhead Camshaft,Auto,Pale White,19000,Sedan,Greenville,1,2023,11,4,Bajo
+C_CND_021869,2023-11-27,Male,1350000,Rabun Used Car Sales,BMW,323i,Overhead Camshaft,Manual,Pale White,21001,Hatchback,Scottsdale,0,2023,11,4,Medio
+C_CND_021872,2023-11-27,Female,13500,Saab-Belle Dodge,Mercedes-B,C-Class,Double Overhead Camshaft,Auto,Black,14000,Hatchback,Aurora,1,2023,11,4,Bajo
+C_CND_021975,2023-11-30,Male,13500,Iceberg Rentals,Toyota,Tacoma,Overhead Camshaft,Manual,Black,36000,Hardtop,Janesville,1,2023,11,4,Alto
+C_CND_022024,2023-12-01,Male,260000,Rabun Used Car Sales,Toyota,RAV4,Double Overhead Camshaft,Auto,Pale White,27000,Hatchback,Scottsdale,0,2023,12,4,Medio
+C_CND_022056,2023-12-01,Male,13500,Nebo Chevrolet,Mercury,Mountaineer,Double Overhead Camshaft,Auto,Pale White,21000,Hardtop,Janesville,1,2023,12,4,Medio
+C_CND_022120,2023-12-02,Female,703000,Tri-State Mack Inc,Lexus,LS400,Overhead Camshaft,Manual,Black,69001,Sedan,Scottsdale,0,2023,12,4,Alto
+C_CND_022110,2023-12-02,Male,1950000,Diehl Motor CO Inc,Dodge,Caravan,Double Overhead Camshaft,Auto,Red,19000,Hardtop,Middletown,0,2023,12,4,Bajo
+C_CND_022193,2023-12-02,Male,721000,Progressive Shippers Cooperative Association No,Saturn,LW,Overhead Camshaft,Manual,Pale White,13000,Hatchback,Pasco,0,2023,12,4,Bajo
+C_CND_022136,2023-12-02,Male,362000,Nebo Chevrolet,Mercury,Cougar,Double Overhead Camshaft,Auto,Black,33000,Hatchback,Middletown,0,2023,12,4,Alto
+C_CND_022254,2023-12-03,Male,760000,Tri-State Mack Inc,Volvo,S40,Overhead Camshaft,Manual,Black,36000,Sedan,Scottsdale,0,2023,12,4,Alto
+C_CND_022380,2023-12-05,Male,1400000,Tri-State Mack Inc,Chevrolet,Prizm,Overhead Camshaft,Manual,Black,44000,Hardtop,Scottsdale,0,2023,12,4,Alto
+C_CND_022395,2023-12-05,Male,990000,Ryder Truck Rental and Leasing,Dodge,Viper,Overhead Camshaft,Manual,Black,26000,SUV,Middletown,0,2023,12,4,Medio
+C_CND_022404,2023-12-05,Male,940000,Rabun Used Car Sales,Toyota,Sienna,Overhead Camshaft,Manual,Black,27000,Passenger,Janesville,0,2023,12,4,Medio
+C_CND_022466,2023-12-06,Male,1340000,Star Enterprises Inc,Cadillac,Eldorado,Overhead Camshaft,Manual,Red,37000,Passenger,Pasco,0,2023,12,4,Alto
+C_CND_022549,2023-12-08,Male,330000,Chrysler of Tri-Cities,Chevrolet,Cavalier,Overhead Camshaft,Manual,Pale White,20000,SUV,Pasco,0,2023,12,4,Bajo
+C_CND_022662,2023-12-09,Male,890000,Ryder Truck Rental and Leasing,Chrysler,LHS,Double Overhead Camshaft,Auto,Black,26000,Hatchback,Greenville,0,2023,12,4,Medio
+C_CND_022613,2023-12-09,Male,420000,Saab-Belle Dodge,Jaguar,S-Type,Overhead Camshaft,Manual,Red,45000,Passenger,Aurora,0,2023,12,4,Alto
+C_CND_022587,2023-12-09,Male,841000,Star Enterprises Inc,Chevrolet,Lumina,Overhead Camshaft,Manual,Red,12001,Passenger,Pasco,0,2023,12,4,Bajo
+C_CND_022600,2023-12-09,Male,326500,Rabun Used Car Sales,Mercedes-B,S-Class,Overhead Camshaft,Manual,Black,18500,SUV,Scottsdale,0,2023,12,4,Bajo
+C_CND_022741,2023-12-10,Male,700000,Ryder Truck Rental and Leasing,Mitsubishi,Montero Sport,Overhead Camshaft,Manual,Red,29001,Hardtop,Pasco,0,2023,12,4,Alto
+C_CND_022748,2023-12-10,Male,1250000,Saab-Belle Dodge,Audi,A4,Double Overhead Camshaft,Auto,Black,27000,Hardtop,Aurora,0,2023,12,4,Medio
+C_CND_022718,2023-12-10,Male,720000,Tri-State Mack Inc,Toyota,4Runner,Double Overhead Camshaft,Auto,Black,26000,Sedan,Scottsdale,0,2023,12,4,Medio
+C_CND_022690,2023-12-10,Male,1261000,Scrivener Performance Engineering,Lexus,GS400,Double Overhead Camshaft,Auto,Black,12101,Hatchback,Greenville,0,2023,12,4,Bajo
+C_CND_022723,2023-12-10,Male,825000,Star Enterprises Inc,Ford,Mustang,Overhead Camshaft,Manual,Red,43000,Hatchback,Aurora,0,2023,12,4,Alto
+C_CND_022736,2023-12-10,Male,1100000,Diehl Motor CO Inc,Pontiac,Sunfire,Overhead Camshaft,Manual,Pale White,28000,Sedan,Middletown,0,2023,12,4,Medio
+C_CND_022861,2023-12-11,Male,573000,Suburban Ford,Hyundai,Sonata,Overhead Camshaft,Manual,Black,20000,SUV,Greenville,0,2023,12,4,Bajo
+C_CND_022768,2023-12-11,Male,1320000,Chrysler Plymouth,Mercedes-B,M-Class,Overhead Camshaft,Manual,Red,25000,Hardtop,Janesville,0,2023,12,4,Medio
+C_CND_022909,2023-12-12,Male,695000,Diehl Motor CO Inc,Volvo,S40,Double Overhead Camshaft,Auto,Pale White,42000,Sedan,Middletown,0,2023,12,4,Alto
+C_CND_022969,2023-12-12,Male,13500,Saab-Belle Dodge,Dodge,Caravan,Double Overhead Camshaft,Auto,Pale White,38000,Hardtop,Aurora,1,2023,12,4,Alto
+C_CND_023063,2023-12-15,Male,1030000,Progressive Shippers Cooperative Association No,Volkswagen,GTI,Double Overhead Camshaft,Auto,Red,25000,SUV,Middletown,0,2023,12,4,Medio
+C_CND_023172,2023-12-18,Male,1020000,Scrivener Performance Engineering,Honda,Passport,Overhead Camshaft,Manual,Pale White,27000,Hardtop,Austin,0,2023,12,4,Medio
+C_CND_023332,2023-12-22,Female,672000,McKinney Dodge Chrysler Jeep,Saab,3-Sep,Double Overhead Camshaft,Auto,Black,26000,Sedan,Scottsdale,0,2023,12,4,Medio
+C_CND_023328,2023-12-22,Male,2200000,Enterprise Rent A Car,Mitsubishi,3000GT,Overhead Camshaft,Manual,Pale White,21000,Sedan,Janesville,0,2023,12,4,Medio
+C_CND_023415,2023-12-23,Male,13500,U-Haul CO,Dodge,Avenger,Double Overhead Camshaft,Auto,Red,39000,Passenger,Austin,1,2023,12,4,Alto
+C_CND_023447,2023-12-24,Male,817500,Tri-State Mack Inc,Volvo,C70,Overhead Camshaft,Manual,Black,17500,Hatchback,Scottsdale,0,2023,12,4,Bajo
+C_CND_023468,2023-12-24,Female,580000,Scrivener Performance Engineering,Honda,Passport,Overhead Camshaft,Manual,Pale White,27000,Hardtop,Janesville,0,2023,12,4,Medio
+C_CND_023493,2023-12-25,Male,900000,McKinney Dodge Chrysler Jeep,Ford,Escort,Double Overhead Camshaft,Auto,Red,15000,Passenger,Scottsdale,0,2023,12,4,Bajo
+C_CND_023516,2023-12-25,Male,508000,Tri-State Mack Inc,Acura,TL,Overhead Camshaft,Manual,Pale White,14000,Hatchback,Scottsdale,0,2023,12,4,Bajo
+C_CND_023572,2023-12-25,Male,13500,Race Car Help,Oldsmobile,Intrigue,Double Overhead Camshaft,Auto,Red,39000,SUV,Aurora,1,2023,12,4,Alto
+C_CND_023504,2023-12-25,Male,650000,Nebo Chevrolet,Jeep,Wrangler,Overhead Camshaft,Manual,Pale White,23000,Hatchback,Middletown,0,2023,12,4,Medio
+C_CND_023531,2023-12-25,Male,13500,Classic Chevy,Oldsmobile,Silhouette,Double Overhead Camshaft,Auto,Black,60000,Sedan,Scottsdale,1,2023,12,4,Alto
+C_CND_023507,2023-12-25,Male,13500,Pitre Buick-Pontiac-Gmc of Scottsdale,Mercury,Villager,Double Overhead Camshaft,Auto,Black,16001,Passenger,Pasco,1,2023,12,4,Bajo
+C_CND_023633,2023-12-26,Male,650000,Suburban Ford,Honda,CR-V,Double Overhead Camshaft,Auto,Black,31000,SUV,Austin,0,2023,12,4,Alto
+C_CND_023614,2023-12-26,Male,430000,Saab-Belle Dodge,Jeep,Grand Cherokee,Overhead Camshaft,Manual,Pale White,15000,SUV,Aurora,0,2023,12,4,Bajo
+C_CND_023600,2023-12-26,Male,950000,Capitol KIA,Chrysler,LHS,Double Overhead Camshaft,Auto,Pale White,21000,Hatchback,Greenville,0,2023,12,4,Medio
+C_CND_023745,2023-12-29,Male,725000,Hatfield Volkswagen,Volkswagen,Jetta,Overhead Camshaft,Manual,Red,24000,Passenger,Greenville,0,2023,12,4,Medio
+C_CND_023787,2023-12-29,Male,620000,Nebo Chevrolet,Pontiac,Bonneville,Double Overhead Camshaft,Auto,Red,19000,Hatchback,Austin,0,2023,12,4,Bajo
