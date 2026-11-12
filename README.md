@@ -1,7 +1,7 @@
-# DataMiningIA_[jleonruge]
+# DataMiningIA_LeonRuge
 
 Proyecto final de Minería de Datos con IA — *De la pregunta al insight*
-Universidad Ean ·
+Universidad Ean
 
 ---
 
