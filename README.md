@@ -1,7 +1,8 @@
 # DataMiningIA_[TuNombre]
 
 Proyecto final de Minería de Datos con IA — *De la pregunta al insight*
-Universidad Ean · [Nombre de la asignatura] · [Semestre]
+Universidad Ean ·
+por Jose leonardo cuello
 
 ---
 
